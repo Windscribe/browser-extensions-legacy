@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Đăng nhập Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Tên đăng nhập"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Mật khẩu"
+	},
+	"loginButtonText": {
+		"message": "Đăng nhập"
+	},
+	"loginForgotPassword": {
+		"message": "Quên mật khẩu"
+	},
+	"loginSignUp": {
+		"message": "Đăng ký"
+	},
+	"loginErr": {
+		"message": "Đăng nhập không hợp lệ, hãy thử lại"
+	},
+	"loginEmptyInput": {
+		"message": "Điền vào hai ô 'tên đăng nhập' và 'mật khẩu' để đăng nhập"
+	},
+	"loginWelcomeMsg": {
+		"message": "Thật tuyệt, chúng tôi đang đăng nhập cho bạn"
+	},
+	"statusConnectedDesktop": {
+		"message": "Đã kết nối (Máy tính bàn)"
+	},
+	"statusConnected": {
+		"message": "Đã kết nối"
+	},
+	"statusDisconnected": {
+		"message": "Đã ngắt kết nối"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "Địa điểm sẽ tự động thay đổi khi truy cập một nguồn bị chặn"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "Đang chạy ứng dụng cho máy tính bàn. Bạn hiện đang nhân đôi proxy lượt truy cập của bạn. Việc này sẽ giúp an toàn hơn nhưng có thể làm chậm hơn"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Cài đặt mạng của bạn đã được Ứng dụng Máy tính bàn Windscribe kiểm soát"
+	},
+	"connectionModeTooltipManual": {
+		"message": "Địa điểm do bạn chọn"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "Chế độ được xác định bằng cài đặt proxy của bạn"
+	},
+	"upgradeTooltipText": {
+		"message": "Bạn đã vượt quá giới hạn dùng miễn phí cho tháng này. Vui lòng nâng cấp"
+	},
+	"connectionModeText": {
+		"message": "Chế độ kết nối"
+	},
+	"connectionModeNameCR": {
+		"message": "Kiểm soát hành trình"
+	},
+	"connectionModeNameML": {
+		"message": "Thủ công"
+	},
+	"connectionModeNameEA": {
+		"message": "Ứng dụng bên ngoài"
+	},
+	"connectionModeNameDH": {
+		"message": "Hop kép"
+	},
+	"secureLinkTitle": {
+		"message": "Bộ tạo Secure.Link"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Không thể tạo Secure.link từ trang này"
+	},
+	"secureLinkBtnText": {
+		"message": "Sao chép Secure.Link"
+	},
+	"whiteListIt": {
+		"message": "Đưa vào danh sách trắng"
+	},
+	"whiteListAdsOnly": {
+		"message": "Chỉ có quảng cáo"
+	},
+	"whiteListNoProxy": {
+		"message": "Không Proxy"
+	},
+	"whiteListRemove": {
+		"message": "Bỏ khỏi Danh sách trắng"
+	},
+	"whiteListListed": {
+		"message": "Trang này đã được đưa vào danh sách trắng"
+	},
+	"whiteListIssues": {
+		"message": "Có vấn đề với trang này?"
+	},
+	"whiteListTooltip": {
+		"message": "Không thể thêm trang trống vào danh sách trắng"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Bỏ trang khỏi Danh sách trắng"
+	},
+	"whiteListAddBtnText": {
+		"message": "Thêm trang vào"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Danh sách trắng quảng cáo"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Danh sách trắng Proxy"
+	},
+	"whiteListReportUrl": {
+		"message": "Báo cáo URL này để chúng tôi sửa nó"
+	},
+	"whiteListReportThanks": {
+		"message": "Xin cảm ơn. Chúng tôi sẽ sửa nó sớm"
+	},
+	"whiteListQuestion": {
+		"message": "Dừng Bộ theo dõi chặn trên trang này?"
+	},
+	"whiteListTitle": {
+		"message": "Lựa chọn Danh sách trắng"
+	},
+	"whiteListSitesTitle": {
+		"message": "Các trang trong danh sách trắng"
+	},
+	"backTitle": {
+		"message": "Trở lại"
+	},
+	"menuTitle": {
+		"message": "Menu"
+	},
+	"menuPrivacyOptions": {
+		"message": "Tuỳ chọn riêng tư"
+	},
+	"menuRecentSLinks": {
+		"message": "Secure.Links gần đây"
+	},
+	"menuLanguages": {
+		"message": "Ngôn ngữ"
+	},
+	"menuHelp": {
+		"message": "Trợ giúp tôi!"
+	},
+	"menuMyAcc": {
+		"message": "Tài khoản của tôi"
+	},
+	"menuUpgrade": {
+		"message": "Nâng cấp"
+	},
+	"menuLogout": {
+		"message": "Đăng xuất"
+	},
+	"recentLinksTitle": {
+		"message": "Các liên kết gần đây"
+	},
+	"recentLinksCopied": {
+		"message": "Đã sao chép!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Không có tựa đề trang"
+	},
+	"recentLinksSure": {
+		"message": "Bạn chắc chứ?"
+	},
+	"recentLinksCopy": {
+		"message": "Sao chép"
+	},
+	"recentLinksYes": {
+		"message": "Có"
+	},
+	"recentLinksNo": {
+		"message": "Không"
+	},
+	"remove": {
+		"message": "Loại bỏ"
+	},
+	"recentLinksNoLinks": {
+		"message": "Bạn không có bất kỳ liên kết an toàn nào"
+	},
+	"recentLinksLearn": {
+		"message": "Tìm hiểu về Secure.link"
+	},
+	"recentLinksToday": {
+		"message": "Hôm nay"
+	},
+	"recentLinksWeek": {
+		"message": "Tuần trước"
+	},
+	"recentLinksMonth": {
+		"message": "Tháng trước"
+	},
+	"recentLinksOlder": {
+		"message": "Cũ hơn"
+	},
+	"privacyOptionsTitle": {
+		"message": "Tuỳ chọn riêng tư"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Chống mạng xã hội"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "THỬ NGHIỆM: Loại bỏ các nút mạng xã hội"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Không thể theo dấu"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Chặn beacons quảng cáo và theo dõi đã biết"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Bộ chặn quảng cáo"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Chặn quảng cáo trên trang bạn truy cập"
+	},
+	"privacyOptionsSplit": {
+		"message": "Chia tách người"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Tự động luân chuyển đại lý người dùng của bạn"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Các trang trong Danh sách trắng"
+	},
+	"privacyOptionsWLText": {
+		"message": "Các trang trên Danh sách trắng sẽ không ảnh hưởng bởi các cài đặt trên"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Quản lý Danh sách trắng"
+	},
+	"privacyOptionsOn": {
+		"message": "bật"
+	},
+	"privacyOptionsOff": {
+		"message": "tắt"
+	},
+	"secLinkTitle": {
+		"message": "Các tuỳ chọn liên kết an toàn"
+	},
+	"secLinkCopied": {
+		"message": "Đã sao chép liên kết"
+	},
+	"secLinkNotCopied": {
+		"message": "Liên kết không được sao chép"
+	},
+	"secLinkAddPsw": {
+		"message": "Thêm mật khẩu để mã hoá (không bắt buộc)"
+	},
+	"secLinkAddMsg": {
+		"message": "Thêm tin nhắn (không bắt buộc)"
+	},
+	"secLinkWarn": {
+		"message": "Mật khẩu phải chứa ít nhất 4 ký hiệu"
+	},
+	"secLinkForceIns": {
+		"message": "Bắt buộc cài đặt"
+	},
+	"secLinkNote": {
+		"message": "*Sẽ yêu cầu Windscribe được cài đặt để tiếp tục"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Bảo vệ đã vô hiệu hoá"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe không thể hoạt động khi bạn đang sử dụng tiện ích mở rộng khác đang kiểm soát cài đặt proxy của bạn"
+	},
+	"errNetworkHeader": {
+		"message": "Ôi, vấn đề này không nên xảy ra"
+	},
+	"errNetworkText": {
+		"message": "Không thể kết nối máy chủ Windscribe. Bạn không có kết nối Internet hoặc có lỗi xảy ra ở phía chúng tôi"
+	},
+	"rateUsHeader": {
+		"message": "Bạn yêu thích Windscribe chứ?"
+	},
+	"rateUsHeaderText": {
+		"message": "Chúng tôi thật sự trân trọng đánh giá và nhận xét của bạn trên Chrome Store"
+	},
+	"rateUsCTA": {
+		"message": "Đánh giá chúng tôi"
+	},
+	"rateUsNo": {
+		"message": "Không Cảm ơn"
+	},
+	"notificationOn": {
+		"message": "Bạn hiện đã kết nối đến Windscribe"
+	},
+	"notificationOff": {
+		"message": "Kết nối đến Windscribe đã dừng"
+	},
+	"notificationOnDH1": {
+		"message": "Bạn hiện đã kết nối đến Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "Hop kép đã kết hoạt. Nó có thể làm giảm hiệu suất"
+	},
+	"notificationOffDH": {
+		"message": "Kết nối Hop kép đã chấm dứt. Mạng của bạn vẫn được kiểm soát bằng ứng dụng máy tính bàn Windscribe"
+	},
+	"notificationOnEM": {
+		"message": "Cài đặt mạng của bạn đang được Ứng dụng máy tính bàn Windscribe kiểm soát"
+	},
+	"notificationEA": {
+		"message": "Cài đặt mạng của bạn đang được Ứng dụng máy tính bàn Windscribe kiểm soát. Ngắt kết nối bên trong ứng dụng để tắt Windscribe"
+	},
+	"topNavDays": {
+		"message": "Ngày Còn lại"
+	},
+	"topNavDay": {
+		"message": "Ngày Còn lại"
+	},
+	"topNavUpgrade": {
+		"message": "Nâng cấp"
+	},
+	"topNavBanned": {
+		"message": "Đã cấm"
+	},
+	"topNavGBLeft": {
+		"message": "GB Còn lại"
+	}
+}

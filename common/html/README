@@ -1,0 +1,14 @@
+OK, so what's is here?
+
+assets/
+js/
+lib/
+
+all these folders are part of uBlock's core. They are there because inside uBlock they sometimes use relative
+reference to resources. So putting them there exactly resembles how uBlock is launched
+
+When updating uBlock's, remember:
+1) replace  `vAPI.getURL(url);` with `vAPI.getURL('html/' + url);` at `api.fetchText()` function in `assets.js`
+2) match settings in `background.js`
+3) point to proper icons in `vapi-background.js` in vAPI.setIcon(), or comment setting icon.
+4) to check assets update go to `storage.js`, µBlock.assetObserver

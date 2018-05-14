@@ -1,0 +1,332 @@
+{
+  "extName": {
+    "message": "Windscribe - Free VPN and Ad Blocker"
+  },
+  "extShortName": {
+    "message": "Windscribe"
+  },
+  "extDescription": {
+    "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+  },
+  "loginTitle": {
+    "message": "Logga in på Windscribe"
+  },
+  "loginUsernamePlaceholder": {
+    "message": "Användarnamn"
+  },
+  "loginPasswordPlaceholder": {
+    "message": "Lösenord"
+  },
+  "loginButtonText": {
+    "message": "Inloggning"
+  },
+  "loginForgotPassword": {
+    "message": "Glömde lösenord"
+  },
+  "loginSignUp": {
+    "message": "Registrera"
+  },
+  "loginErr": {
+    "message": "Denna inloggning verkar vara felaktig, försök igen"
+  },
+  "loginEmptyInput": {
+    "message": "Fyll i både ’användarnamn’ och ’lösenord’ för att logga in"
+  },
+  "loginWelcomeMsg": {
+    "message": "Fantastiskt, vi loggar in dig"
+  },
+  "statusConnectedDesktop": {
+    "message": "Ansluten (Skrivbord)"
+  },
+  "statusConnected": {
+    "message": "Ansluten"
+  },
+  "statusDisconnected": {
+    "message": "Frånkopplad"
+  },
+  "connectionModeTooltipCruiseControl": {
+    "message": "Platsen kommer att ändras automatiskt när du öppnar en blockerad resurs"
+  },
+  "connectionModeTooltipDoubleHop": {
+    "message": "Applikationen körs. Du dubblar för närvarande din proxytrafik. Detta är säkrare, men kan vara långsammare"
+  },
+  "connectionModeTooltipExternalApp": {
+    "message": "Nätverksinställningarna styrs av Windscribe Skrivbordsapp"
+  },
+  "connectionModeTooltipManual": {
+    "message": "Plats är vald av dig"
+  },
+  "connectionModeTooltipDefault": {
+    "message": "Ditt läge definieras av proxyinställningarna"
+  },
+  "upgradeTooltipText": {
+    "message": "Du överskridit fri användning för denna månad. Uppgradera"
+  },
+  "connectionModeText": {
+    "message": "Anslutningsläge"
+  },
+  "connectionModeNameCR": {
+    "message": "Farthållare"
+  },
+  "connectionModeNameML": {
+    "message": "Manuell"
+  },
+  "connectionModeNameEA": {
+    "message": "Extern App"
+  },
+  "connectionModeNameDH": {
+    "message": "Dubbelhopp"
+  },
+  "secureLinkTitle": {
+    "message": "Secure.Link Generator"
+  },
+  "secureLinkErrTooltip": {
+    "message": "Kan inte göra en Secure.link från denna sida"
+  },
+  "secureLinkBtnText": {
+    "message": "Kopiera Secure.Link"
+  },
+  "whiteListIt": {
+    "message": "Vitlista det"
+  },
+  "whiteListAdsOnly": {
+    "message": "Annonser bara"
+  },
+  "whiteListNoProxy": {
+    "message": "Ingen proxy"
+  },
+  "whiteListRemove": {
+    "message": "Ta bort från vitlista"
+  },
+  "whiteListListed": {
+    "message": "Denna sida är vitlistad"
+  },
+  "whiteListIssues": {
+    "message": "Har du problem med denna sida?"
+  },
+  "whiteListTooltip": {
+    "message": "Kan inte lägga till tom sida på vitlistan"
+  },
+  "whiteListRemoveBtnText": {
+    "message": "Ta bort sida från vitlista"
+  },
+  "whiteListAddBtnText": {
+    "message": "Lägg till sida på"
+  },
+  "whiteListAddAdsBtnText": {
+    "message": "Annonser vitlista"
+  },
+  "whiteListAddProxyBtnText": {
+    "message": "Proxy vitlista"
+  },
+  "whiteListReportUrl": {
+    "message": "Rapportera den här URLen så att vi kan fixa det"
+  },
+  "whiteListReportThanks": {
+    "message": "Tack. Vi kommer att fixa det snart."
+  },
+  "whiteListQuestion": {
+    "message": "Sluta blockera Trackers på denna webbplats?"
+  },
+  "whiteListTitle": {
+    "message": "Vitlista inställningar"
+  },
+  "whiteListSitesTitle": {
+    "message": "Vitlastade sidor"
+  },
+  "backTitle": {
+    "message": "Bak"
+  },
+  "menuTitle": {
+    "message": "Meny"
+  },
+  "menuPrivacyOptions": {
+    "message": "Integritetsalternativ"
+  },
+  "menuRecentSLinks": {
+    "message": "Nyligen Secure.Links"
+  },
+  "menuLanguages": {
+    "message": "Språk"
+  },
+  "menuHelp": {
+    "message": "Hjälp mig!"
+  },
+  "menuMyAcc": {
+    "message": "Mitt konto"
+  },
+  "menuUpgrade": {
+    "message": "Uppgradera"
+  },
+  "menuLogout": {
+    "message": "Logga ut"
+  },
+  "recentLinksTitle": {
+    "message": "Senaste länkar"
+  },
+  "recentLinksCopied": {
+    "message": "Kopierad!"
+  },
+  "recentLinksNoTitle": {
+    "message": "Ingen sidtitel"
+  },
+  "recentLinksSure": {
+    "message": "Är du säker?"
+  },
+  "recentLinksCopy": {
+    "message": "Kopiera"
+  },
+  "recentLinksYes": {
+    "message": "Ja"
+  },
+  "recentLinksNo": {
+    "message": "Nej"
+  },
+  "remove": {
+    "message": "Ta bort"
+  },
+  "recentLinksNoLinks": {
+    "message": "Du har inga säkra länkar"
+  },
+  "recentLinksLearn": {
+    "message": "Lär dig om Secure.link"
+  },
+  "recentLinksToday": {
+    "message": "Idag"
+  },
+  "recentLinksWeek": {
+    "message": "Förra veckan"
+  },
+  "recentLinksMonth": {
+    "message": "Förra månaden"
+  },
+  "recentLinksOlder": {
+    "message": "Äldre"
+  },
+  "privacyOptionsTitle": {
+    "message": "Integritetsinställningar"
+  },
+  "privacyOptionsAntiSoc": {
+    "message": "Osocial"
+  },
+  "privacyOptionsAntiSocNote": {
+    "message": "Experimentellt: Ta bort sociala medier knappar"
+  },
+  "privacyOptionsUntrace": {
+    "message": "Ospårbar"
+  },
+  "privacyOptionsUntraceNote": {
+    "message": "Blockera kända annonsfyrar och trackers"
+  },
+  "privacyOptionsAdBlock": {
+    "message": "Annonsblockerare"
+  },
+  "privacyOptionsAdBlockNote": {
+    "message": "Blockerar annonser på sidor du besöker"
+  },
+  "privacyOptionsSplit": {
+    "message": "Delad personlighet"
+  },
+  "privacyOptionsSplitNote": {
+    "message": "Slumpmässigt rotera din användaragent"
+  },
+  "privacyOptionsWLTitle": {
+    "message": "Vitlastade sidor"
+  },
+  "privacyOptionsWLText": {
+    "message": "Platser på vitlistan kommer inte att påverkas av ovanstående inställningar"
+  },
+  "privacyOptionsWLBtnText": {
+    "message": "Hantera vitlista"
+  },
+  "privacyOptionsOn": {
+    "message": "på"
+  },
+  "privacyOptionsOff": {
+    "message": "av"
+  },
+  "secLinkTitle": {
+    "message": "Säkra länk inställningar"
+  },
+  "secLinkCopied": {
+    "message": "Länk kopierad"
+  },
+  "secLinkNotCopied": {
+    "message": "Länk kopierades inte"
+  },
+  "secLinkAddPsw": {
+    "message": "Lägga till lösenord för att kryptera (valfritt)"
+  },
+  "secLinkAddMsg": {
+    "message": "Lägg till meddelande (valfritt)"
+  },
+  "secLinkWarn": {
+    "message": "Lösenord måste innehålla minst 4 symboler"
+  },
+  "secLinkForceIns": {
+    "message": "Tvinga installation"
+  },
+  "secLinkNote": {
+    "message": "* Kommer kräva att Windscribe installerats för att fortsätta"
+  },
+  "errOtherExtensionHeader": {
+    "message": "Skydd avaktiverat"
+  },
+  "errOtherExtensionText": {
+    "message": "Windscribe fungerar inte när du använder en annan anknytning som styr proxyinställningar"
+  },
+  "errNetworkHeader": {
+    "message": "Oops, det ska inte hända"
+  },
+  "errNetworkText": {
+    "message": "Det gick inte att nå Windscribe servrarna. Du har antingen ingen Internet-anslutning eller så är något fel på vår ände"
+  },
+  "rateUsHeader": {
+    "message": "Vad tycker du om Windscribe?"
+  },
+  "rateUsHeaderText": {
+    "message": "Vi skulle verkligen uppskatta ett betyg och en recension i Chrome Store"
+  },
+  "rateUsCTA": {
+    "message": "Betygsätt oss"
+  },
+  "rateUsNo": {
+    "message": "Nej tack"
+  },
+  "notificationOn": {
+    "message": "Du är nu ansluten till Windscribe"
+  },
+  "notificationOff": {
+    "message": "Anslutningen till Windscribe har avslutats"
+  },
+  "notificationOnDH1": {
+    "message": "Du är nu ansluten till Windscribe"
+  },
+  "notificationOnDH2": {
+    "message": "Dubbel-hopp har aktiverats. Detta kan orsaka prestandapåföljder"
+  },
+  "notificationOffDH": {
+    "message": "Dubbel-hopp förbindelsen har avslutats. Nätverket kontrolleras fortfarande av Windscribe skrivbordsapp"
+  },
+  "notificationOnEM": {
+    "message": "Nätverksinställningarna styrs av Windscribe skrivbordsapp"
+  },
+  "notificationEA": {
+    "message": "Dina nätverksinställningar styrs av Windscribe-appen. Koppla in i appen för att stänga av Windscribe"
+  },
+  "topNavDaysLeft": {
+    "message": "Dagar kvar"
+  },
+  "topNavDayLeft": {
+    "message": "Dag kvar"
+  },
+  "topNavUpgrade": {
+    "message": "Uppgradera"
+  },
+  "topNavBanned": {
+    "message": "Bannad"
+  },
+  "topNavGBLeft": {
+    "message": "GB kvar"
+  }
+}

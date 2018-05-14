@@ -1,0 +1,105 @@
+{
+  "manifest_version": 2,
+  "name": "__MSG_extName__",
+  "short_name": "__MSG_extShortName__",
+  "default_locale": "en",
+  "version": "2.3.5",
+  "minimum_chrome_version": "39",
+  "description": "__MSG_extDescription__",
+  "browser_action": {
+    "default_icon": "assets/extension_icons/38x38_off.png",
+    "default_popup": "html/reactPopUp.html",
+    "default_title": "Windscribe"
+  },
+  "permissions": [
+    "http://*/",
+    "https://*/",
+    "proxy",
+    "management",
+    "tabs",
+    "webRequest",
+    "<all_urls>",
+    "webRequestBlocking",
+    "activeTab",
+    "background",
+    "storage",
+    "unlimitedStorage",
+    "contextMenus",
+    "privacy",
+    "webNavigation",
+    "notifications",
+    "alarms",
+    "cookies"
+  ],
+  "icons": {
+    "19": "assets/extension_icons/19x19_on.png",
+    "38": "assets/extension_icons/38x38_on.png",
+    "128": "assets/extension_icons/128x128_on.png"
+  },
+  "content_scripts": [
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "html/js/vapi-client.js",
+        "html/js/contentscript.js"
+      ],
+      "run_at": "document_start",
+      "all_frames": true
+    },
+    {
+      "matches": [
+        "http://*/*",
+        "https://*/*"
+      ],
+      "js": [
+        "html/js/scriptlets/subscriber.js"
+      ],
+      "run_at": "document_idle",
+      "all_frames": false
+    },
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "js/content.js"
+      ],
+      "run_at": "document_start"
+    },
+    {
+      "matches": [
+        "https://*.windscribe.com/myaccount?hello"
+      ],
+      "js": [
+        "js/loginAfterSignUp.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "https://*.windscribe.com/upgrade?hello"
+      ],
+      "js": [
+        "js/loginAfterSignUp.js"
+      ],
+      "run_at": "document_end"
+    },
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "js": [
+        "js/cookie-monster.js"
+      ]
+    }
+  ],
+  "background": {
+    "page": "html/background.html"
+  },
+  "web_accessible_resources": [
+    "document-blocked.html"
+  ]
+}

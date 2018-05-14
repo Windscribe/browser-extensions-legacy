@@ -1,0 +1,392 @@
+{
+  "extName": {
+    "message": "Windscribe - Free VPN and Ad Blocker"
+  },
+  "extShortName": {
+    "message": "Windscribe"
+  },
+  "extDescription": {
+    "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+  },
+  "loginTitle": {
+    "message": "Login to Windscribe"
+  },
+  "loginUsernamePlaceholder": {
+    "message": "Username"
+  },
+  "loginPasswordPlaceholder": {
+    "message": "Password"
+  },
+  "loginButtonText": {
+    "message": "Login"
+  },
+  "loginForgotPassword": {
+    "message": "Forgot password"
+  },
+  "loginSignUp": {
+    "message": "Sign Up"
+  },
+  "loginErr": {
+    "message": "This login appears to be invalid, try again"
+  },
+  "loginEmptyInput": {
+    "message": "Fill in both 'username' and 'password' to login"
+  },
+  "loginWelcomeMsg": {
+    "message": "Awesome, we`re logging you in"
+  },
+  "statusConnectedDesktop": {
+    "message": "Connected (Desktop)"
+  },
+  "statusConnected": {
+    "message": "Connected"
+  },
+  "statusDisconnected": {
+    "message": "Disconnected"
+  },
+  "connectionModeTooltipCruiseControl": {
+    "message": "Location will be changed automatically when accessing a blocked resource"
+  },
+  "connectionModeTooltipDoubleHop": {
+    "message": "Desktop app is running. You currently double proxy your traffic. This is more secure, but could be slower"
+  },
+  "connectionModeTooltipExternalApp": {
+    "message": "Your network settings are controlled by the Windscribe Desktop App"
+  },
+  "connectionModeTooltipManual": {
+    "message": "Location is chosen by you"
+  },
+  "connectionModeTooltipDefault": {
+    "message": "Your mode is defined by your proxy settings"
+  },
+  "upgradeTooltipText": {
+    "message": "You exceeded your free usage for this month. Please upgrade"
+  },
+  "connectionModeText": {
+    "message": "Connection Mode"
+  },
+  "connectionModeNameCR": {
+    "message": "Cruise Control"
+  },
+  "connectionModeNameML": {
+    "message": "Manual"
+  },
+  "connectionModeNameEA": {
+    "message": "External App"
+  },
+  "connectionModeNameDH": {
+    "message": "Double Hop"
+  },
+  "cookieMonsterTitle": {
+    "message": "Cookie Monster"
+  },
+  "cookieMonsterOptionsNote": {
+    "message": "Delete Cookies when tab is closed"
+  },
+  "cookieMonsterCookieOff": {
+    "message": "Off"
+  },
+  "cookieMonsterCookie3rdParty": {
+    "message": "3rd Party"
+  },
+  "cookieMonsterCookieAll": {
+    "message": "All"
+  },
+  "secureLinkTitle": {
+    "message": "Secure.Link Generator"
+  },
+  "secureLinkErrTooltip": {
+    "message": "Cannot make a Secure.link from this page"
+  },
+  "secureLinkBtnText": {
+    "message": "Copy Secure.Link"
+  },
+  "whiteListDomain": {
+    "message": "Domain"
+  },
+  "whiteListAds": {
+    "message": "Ads"
+  },
+  "whiteListProxy": {
+    "message": "No Proxy"
+  },
+  "whiteListCookies": {
+    "message": "Cookies"
+  },
+  "whiteListIt": {
+    "message": "Open Whitelist"
+  },
+  "whiteListAll": {
+    "message": "Whitelist All"
+  },
+  "whiteListDirectConnection": {
+    "message": "Direct Connection"
+  },
+  "whiteListAllowAds": {
+    "message": "Allow Ads"
+  },
+  "whiteListAllowCookies": {
+    "message": "Allow Cookies"
+  },
+  "whiteListAdsOnly": {
+    "message": "Ads Only"
+  },
+  "whiteListNoProxy": {
+    "message": "No Proxy"
+  },
+  "whiteListRemove": {
+    "message": "Remove from White List"
+  },
+  "whiteListListed": {
+    "message": "This site is whitelisted"
+  },
+  "whiteListIssues": {
+    "message": "Having Issues with this site?"
+  },
+  "whiteListTooltip": {
+    "message": "Cannot add empty page to whitelist"
+  },
+  "whiteListRemoveBtnText": {
+    "message": "Remove Site from Whitelist"
+  },
+  "whiteListAddBtnText": {
+    "message": "Add Site to"
+  },
+  "whiteListAddAdsBtnText": {
+    "message": "Ads Whitelist"
+  },
+  "whiteListAddProxyBtnText": {
+    "message": "Proxy Whitelist"
+  },
+  "whiteListAddCookieBtnText": {
+    "message": "Cookie Whitelist"
+  },
+  "whiteListReportUrl": {
+    "message": "Report this URL so we can fix it"
+  },
+  "whiteListReportThanks": {
+    "message": "Thanks. We'll get that fixed shortly"
+  },
+  "whiteListQuestion": {
+    "message": "Stop Blocking Trackers on this Site?"
+  },
+  "whiteListTitle": {
+    "message": "Whitelist Options"
+  },
+  "whiteListSitesTitle": {
+    "message": "Whitelisted sites"
+  },
+  "backTitle": {
+    "message": "Back"
+  },
+  "menuTitle": {
+    "message": "Menu"
+  },
+  "menuPrivacyOptions": {
+    "message": "Privacy Options"
+  },
+  "menuRecentSLinks": {
+    "message": "Recent Secure.Links"
+  },
+  "menuLanguages": {
+    "message": "Languages"
+  },
+  "menuHelp": {
+    "message": "Help Me!"
+  },
+  "menuMyAcc": {
+    "message": "My Account"
+  },
+  "menuUpgrade": {
+    "message": "Upgrade"
+  },
+  "menuLogout": {
+    "message": "Logout"
+  },
+  "recentLinksTitle": {
+    "message": "Recent Links"
+  },
+  "recentLinksCopied": {
+    "message": "Copied!"
+  },
+  "recentLinksNoTitle": {
+    "message": "No page title"
+  },
+  "recentLinksSure": {
+    "message": "Are you sure?"
+  },
+  "recentLinksCopy": {
+    "message": "Copy"
+  },
+  "recentLinksYes": {
+    "message": "Yes"
+  },
+  "recentLinksNo": {
+    "message": "No"
+  },
+  "remove": {
+    "message": "Remove"
+  },
+  "recentLinksNoLinks": {
+    "message": "You do not have any secure links"
+  },
+  "recentLinksLearn": {
+    "message": "Learn About Secure.link"
+  },
+  "recentLinksToday": {
+    "message": "Today"
+  },
+  "recentLinksWeek": {
+    "message": "Last Week"
+  },
+  "recentLinksMonth": {
+    "message": "Last Month"
+  },
+  "recentLinksOlder": {
+    "message": "Older"
+  },
+  "privacyOptionsTitle": {
+    "message": "Privacy Options"
+  },
+  "privacyOptionsAntiSoc": {
+    "message": "Anti-Social"
+  },
+  "privacyOptionsAntiSocNote": {
+    "message": "EXPERIMENTAL: Remove social media buttons"
+  },
+  "privacyOptionsUntrace": {
+    "message": "Untraceable"
+  },
+  "privacyOptionsUntraceNote": {
+    "message": "Block known ad beacons and trackers"
+  },
+  "privacyOptionsAdBlock": {
+    "message": "Ad Blocker"
+  },
+  "privacyOptionsAdBlockNote": {
+    "message": "Blocks ads on pages you visit"
+  },
+  "privacyOptionsTime": {
+    "message": "Proxy Time"
+  },
+  "privacyOptionsTimeNote": {
+    "message": "Sets browser time to proxy's"
+  },
+  "privacyOptionsSplit": {
+    "message": "Split Personality"
+  },
+  "privacyOptionsSplitNote": {
+    "message": "Randomly rotate your user agent"
+  },
+  "privacyOptionsWLTitle": {
+    "message": "Whitelisted Sites"
+  },
+  "privacyOptionsWLText": {
+    "message": "Selectively disable Privacy Options"
+  },
+  "privacyOptionsWLBtnText": {
+    "message": "Manage Whitelist"
+  },
+  "privacyOptionsOn": {
+    "message": "on"
+  },
+  "privacyOptionsOff": {
+    "message": "off"
+  },
+  "secLinkTitle": {
+    "message": "Secure link Options"
+  },
+  "secLinkCopied": {
+    "message": "Link coppied"
+  },
+  "secLinkNotCopied": {
+    "message": "Link didn't copy"
+  },
+  "secLinkAddPsw": {
+    "message": "Add password to encrypt (optional)"
+  },
+  "secLinkAddMsg": {
+    "message": "Add Message (optional)"
+  },
+  "secLinkWarn": {
+    "message": "Password must contain at least 4 symbols"
+  },
+  "secLinkForceIns": {
+    "message": "Force install"
+  },
+  "secLinkNote": {
+    "message": "*Will require Windscribe to be installed to continue"
+  },
+  "errOtherExtensionHeader": {
+    "message": "Protection Disabled"
+  },
+  "errOtherExtensionText": {
+    "message": "Windscribe can`t work when you`re using another extension that is controlling your proxy settings"
+  },
+  "errNetworkHeader": {
+    "message": "Oops, that shouldn't happen"
+  },
+  "errNetworkText": {
+    "message": "Couldn't reach Windscribe servers. You either have no Internet connectivity or something is wrong on our end"
+  },
+  "rateUsHeader": {
+    "message": "How are you liking Windscribe?"
+  },
+  "rateUsHeaderText": {
+    "message": "We would really appreciate a rating and a review in the Chrome Store"
+  },
+  "rateUsCTA": {
+    "message": "Rate Us"
+  },
+  "rateUsNo": {
+    "message": "No Thanks"
+  },
+  "notificationOn": {
+    "message": "You are now connected to Windscribe"
+  },
+  "notificationOff": {
+    "message": "Connection to Windscribe has been terminated"
+  },
+  "notificationOnDH1": {
+    "message": "You are now connected to Windscribe"
+  },
+  "notificationOnDH2": {
+    "message": "Double hop is enabled. This may cause performance penalties"
+  },
+  "notificationOffDH": {
+    "message": "Double hop connection has been terminated. Your network is still being controlled by the Windscribe desktop app"
+  },
+  "notificationOnEM": {
+    "message": "Your network settings are being controlled by Windscribe Desktop App"
+  },
+  "notificationEA": {
+    "message": "Your network settings are being controlled by the Windscribe desktop app. Disconnect inside the app to turn off Windscribe"
+  },
+  "notificationBandwidth1": {
+    "message": "You used"
+  },
+  "notificationBandwidth2": {
+    "message": "% of your free bandwidth"
+  },
+  "notificationBandwidthOut": {
+    "message": "You used up all your free bandwidth. Please upgrade to Pro or wait until next month"
+  },
+  "notificationCookies": {
+    "message": "Deleted cookies"
+  },
+  "topNavDaysLeft": {
+    "message": "Days Left"
+  },
+  "topNavDayLeft": {
+    "message": "Day Left"
+  },
+  "topNavUpgrade": {
+    "message": "Upgrade"
+  },
+  "topNavBanned": {
+    "message": "Banned"
+  },
+  "topNavGBLeft": {
+    "message": "GB Left"
+  }
+}

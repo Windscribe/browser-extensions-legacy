@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Windscribe'a giriş yap"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Kullanıcı Adı"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Şifre"
+	},
+	"loginButtonText": {
+		"message": "Giriş"
+	},
+	"loginForgotPassword": {
+		"message": "Şifremi unuttum"
+	},
+	"loginSignUp": {
+		"message": "Kayıt Ol"
+	},
+	"loginErr": {
+		"message": "Giriş bilgileri geçersiz gibi duruyor, tekrar deneyin"
+	},
+	"loginEmptyInput": {
+		"message": "'kullanıcı adı' ve 'şifre' alanlarının her ikisini de doldurun"
+	},
+	"loginWelcomeMsg": {
+		"message": "Harika, girişinizi gerçekleştiriyoruz"
+	},
+	"statusConnectedDesktop": {
+		"message": "Bağlandı (Masaüstü)"
+	},
+	"statusConnected": {
+		"message": "Bağlandı"
+	},
+	"statusDisconnected": {
+		"message": "Bağlantı Kesildi"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "Engellenmiş bir kaynağa erişirken konum otomatik olarak değiştirilecektir"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "Masaüstü uygulaması çalışıyor. Şu anda trafiğinize çift proxy uyguluyorsunuz. Bu daha güvenlidir fakat daha yavaş olabilir"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Ağ ayarlarınız Windscribe Masaüstü Uygulaması tarafından kontrol edilmektedir"
+	},
+	"connectionModeTooltipManual": {
+		"message": "Konum sizin tarafınızdan seçilmiştir"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "Modunuz proxy ayarlarınız tarafından tanımlanmıştır"
+	},
+	"upgradeTooltipText": {
+		"message": "Bu ayki ücretsiz kullanım sınırınızı aştınız. Lütfen yükseltin"
+	},
+	"connectionModeText": {
+		"message": "Bağlantı Modu"
+	},
+	"connectionModeNameCR": {
+		"message": "Seyir Kontrolü"
+	},
+	"connectionModeNameML": {
+		"message": "Manuel"
+	},
+	"connectionModeNameEA": {
+		"message": "Harici Uygulama"
+	},
+	"connectionModeNameDH": {
+		"message": "Çift Hop"
+	},
+	"secureLinkTitle": {
+		"message": "Secure.Link Üreteci"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Bu sayfadan bir Secure.link yapılamıyor"
+	},
+	"secureLinkBtnText": {
+		"message": " Secure.Link kopyala"
+	},
+	"whiteListIt": {
+		"message": "Beyaz listeye ekle"
+	},
+	"whiteListAdsOnly": {
+		"message": "Yalnızca Reklamlar"
+	},
+	"whiteListNoProxy": {
+		"message": "Proxy Yok"
+	},
+	"whiteListRemove": {
+		"message": "Beyaz Listeden Çıkar "
+	},
+	"whiteListListed": {
+		"message": "Bu site beyaz listeye eklendi "
+	},
+	"whiteListIssues": {
+		"message": "Bu siteyle ilgili problem mi yaşıyorsunuz?"
+	},
+	"whiteListTooltip": {
+		"message": "Beyaz listeye boş sayfa eklenemez "
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Siteyi Beyaz Listeden çıkar "
+	},
+	"whiteListAddBtnText": {
+		"message": "Siteyi ekle"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Reklamlar Beyaz Listesi "
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Proxy Beyaz Listesi"
+	},
+	"whiteListReportUrl": {
+		"message": "Onarabilmemiz için bu URL'yi bildirin "
+	},
+	"whiteListReportThanks": {
+		"message": "Teşekkürler. Kısa sürede bunu onaracağız "
+	},
+	"whiteListQuestion": {
+		"message": "Bu Sitede İzleyicileri Engellemeyi Durdur?"
+	},
+	"whiteListTitle": {
+		"message": "Beyaz Liste Seçenekleri"
+	},
+	"whiteListSitesTitle": {
+		"message": " Beyaz Listeye alınmış siteler"
+	},
+	"backTitle": {
+		"message": "Geri"
+	},
+	"menuTitle": {
+		"message": "Menü"
+	},
+	"menuPrivacyOptions": {
+		"message": "Gizlilik Seçenekleri"
+	},
+	"menuRecentSLinks": {
+		"message": "Son Secure.Linkler"
+	},
+	"menuLanguages": {
+		"message": "Diller"
+	},
+	"menuHelp": {
+		"message": "Bana Yardım Et!"
+	},
+	"menuMyAcc": {
+		"message": "Hesabım "
+	},
+	"menuUpgrade": {
+		"message": "Yükselt"
+	},
+	"menuLogout": {
+		"message": "Çıkış"
+	},
+	"recentLinksTitle": {
+		"message": "Son Linkler"
+	},
+	"recentLinksCopied": {
+		"message": "Kopyalandı!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Sayfa başlığı yok"
+	},
+	"recentLinksSure": {
+		"message": "Emin misiniz?"
+	},
+	"recentLinksCopy": {
+		"message": "Kopyala"
+	},
+	"recentLinksYes": {
+		"message": "Evet"
+	},
+	"recentLinksNo": {
+		"message": "Hayır"
+	},
+	"remove": {
+		"message": "Kaldır"
+	},
+	"recentLinksNoLinks": {
+		"message": "Hiç Secure linkiniz yok"
+	},
+	"recentLinksLearn": {
+		"message": "Secure.link hakkında bilgi edinin"
+	},
+	"recentLinksToday": {
+		"message": "Bugün"
+	},
+	"recentLinksWeek": {
+		"message": "Geçen Hafta"
+	},
+	"recentLinksMonth": {
+		"message": "Geçen Ay"
+	},
+	"recentLinksOlder": {
+		"message": "Daha eski"
+	},
+	"privacyOptionsTitle": {
+		"message": "Gizlilik Seçenekleri"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Anti-Sosyal"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "DENEYSEL: Sosyal medya butonlarını kaldır"
+	},
+	"privacyOptionsUntrace": {
+		"message": "İzlenemez"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Bilinen reklam işaretleri ve izleyicilerini engelle"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Reklam Engelleyici"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Ziyaret ettiğiniz sayfalardaki reklamları engeller "
+	},
+	"privacyOptionsSplit": {
+		"message": "Bölünmüş Kişilik"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Kullanıcı aracınızı rastgele döndürün"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Beyaz Listeye Alınmış Siteler"
+	},
+	"privacyOptionsWLText": {
+		"message": "Beyaz Listedeki siteler yukarıdaki ayarlardan etkilenmeyecektir"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Beyaz Listeyi Yönet"
+	},
+	"privacyOptionsOn": {
+		"message": "açık"
+	},
+	"privacyOptionsOff": {
+		"message": "kapalı"
+	},
+	"secLinkTitle": {
+		"message": "Secure link Seçenekleri"
+	},
+	"secLinkCopied": {
+		"message": "Link kopyalandı"
+	},
+	"secLinkNotCopied": {
+		"message": "Link kopyalanmadı"
+	},
+	"secLinkAddPsw": {
+		"message": "Kodlamak için şifre ekle (isteğe bağlı)"
+	},
+	"secLinkAddMsg": {
+		"message": "Mesaj Ekle (isteğe bağlı)"
+	},
+	"secLinkWarn": {
+		"message": "Şifre en az 4 sembol içermelidir"
+	},
+	"secLinkForceIns": {
+		"message": "Zorla yükle"
+	},
+	"secLinkNote": {
+		"message": "*Devam etmek için Windscribe yüklenmesini gerektirecek"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Koruma Devre Dışı Bırakıldı"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe, proxy ayarlarınızı kontrol eden başka bir uzantı kullanırken çalışamaz"
+	},
+	"errNetworkHeader": {
+		"message": "Oops, bu olmamalıydı"
+	},
+	"errNetworkText": {
+		"message": "Windscribe sunucularına ulaşılamıyor. Ya internet bağlantınız yok, ya da bizim tarafımızda bir şeyler yanlış"
+	},
+	"rateUsHeader": {
+		"message": "Windscribe'ı nasıl buluyorsunuz?"
+	},
+	"rateUsHeaderText": {
+		"message": "Chrome Mağazası'nda bir değerlendirme ve puanlamadan oldukça memnun oluruz"
+	},
+	"rateUsCTA": {
+		"message": "Bizi Değerlendirin"
+	},
+	"rateUsNo": {
+		"message": "Hayır Teşekkürler"
+	},
+	"notificationOn": {
+		"message": "Şu anda Windscribe'a bağlısınız"
+	},
+	"notificationOff": {
+		"message": "Windscribe bağlantısı sonlandırıldı"
+	},
+	"notificationOnDH1": {
+		"message": "Artık Windscribe'a bağlısınız"
+	},
+	"notificationOnDH2": {
+		"message": "Çift hop etkinleştirildi. Bu performans sorunlarına yol açabilir"
+	},
+	"notificationOffDH": {
+		"message": "Çift hop bağlantısı sonlandırıldı. Ağınız hala Windscribe masaüstü uygulaması tarafından kontrol ediliyor"
+	},
+	"notificationOnEM": {
+		"message": "Ağ ayarlarınız Windscribe Masaüstü Uygulaması tarafından kontrol ediliyor"
+	},
+	"notificationEA": {
+		"message": "Ağ ayarlarınız Windscribe masaüstü uygulaması tarafından kontrol ediliyor. Windscribe'ı kapatmak için uygulama içerisinden bağlantıyı kesin"
+	},
+	"topNavDaysLeft": {
+		"message": "Gün Kaldı"
+	},
+	"topNavDayLeft": {
+		"message": " Gün Kaldı"
+	},
+	"topNavUpgrade": {
+		"message": "Yükselt"
+	},
+	"topNavBanned": {
+		"message": "Engellendi"
+	},
+	"topNavGBLeft": {
+		"message": "GB Kaldı"
+	}
+}

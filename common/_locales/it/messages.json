@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Accedi a Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Nome Utente"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Password"
+	},
+	"loginButtonText": {
+		"message": "Accedi"
+	},
+	"loginForgotPassword": {
+		"message": "Password dimenticata"
+	},
+	"loginSignUp": {
+		"message": "Iscriviti"
+	},
+	"loginErr": {
+		"message": "Questo login non sembra essere valido, riprova"
+	},
+	"loginEmptyInput": {
+		"message": "Inserisci sia 'nome utente che 'password' per accedere"
+	},
+	"loginWelcomeMsg": {
+		"message": "Fantastico, ti facciamo accedere"
+	},
+	"statusConnectedDesktop": {
+		"message": "Connesso (Desktop)"
+	},
+	"statusConnected": {
+		"message": "Connesso"
+	},
+	"statusDisconnected": {
+		"message": "Disconnesso"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "La posizione sarà cambiata automaticamente quando si accede ad una risorsa bloccata"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "App desktop in esecuzione. Al momento hai un doppio proxy sul tuo traffico. Ciò è più sicuro, ma potrebbe essere più lento"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Le tue impostazioni dirette sono controllate dalla App Desktop Windscribe"
+	},
+	"connectionModeTooltipManual": {
+		"message": "La posizione viene scelta da te"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "La tua modalità è definita dalle tue impostazioni proxy"
+	},
+	"upgradeTooltipText": {
+		"message": "Hai superato il tuo utilizzo gratuito per questo mese. Per favore effettua lupgrade"
+	},
+	"connectionModeText": {
+		"message": "Modalità Connessione"
+	},
+	"connectionModeNameCR": {
+		"message": "Cruise Control"
+	},
+	"connectionModeNameML": {
+		"message": "Manuale"
+	},
+	"connectionModeNameEA": {
+		"message": "App Esterna"
+	},
+	"connectionModeNameDH": {
+		"message": "Double Hop"
+	},
+	"secureLinkTitle": {
+		"message": "Generatore Secure.Link"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Impossibile creare un Secure.link da questa pagina"
+	},
+	"secureLinkBtnText": {
+		"message": "Copia Secure.Link"
+	},
+	"whiteListIt": {
+		"message": "Inserisci in Whitelist"
+	},
+	"whiteListAdsOnly": {
+		"message": "Solo Ads"
+	},
+	"whiteListNoProxy": {
+		"message": "Nente Proxy"
+	},
+	"whiteListRemove": {
+		"message": "Rimuovi da White List"
+	},
+	"whiteListListed": {
+		"message": "Questo sito è in whitelist"
+	},
+	"whiteListIssues": {
+		"message": "Hai problemi con questo sito?"
+	},
+	"whiteListTooltip": {
+		"message": "Impossibile aggiungere pagina vuota a whitelist"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Rimuovi Sito da Whitelist"
+	},
+	"whiteListAddBtnText": {
+		"message": "Aggiungi Sito A"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Whitelist Ads"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Whitelist Proxy"
+	},
+	"whiteListReportUrl": {
+		"message": "Segnala questo URL in modo da poterlo correggere"
+	},
+	"whiteListReportThanks": {
+		"message": "Grazie. Ce ne occuperemo a breve"
+	},
+	"whiteListQuestion": {
+		"message": "Interrompi Blocco Tracker su questo Sito?"
+	},
+	"whiteListTitle": {
+		"message": "Opzioni Whitelist"
+	},
+	"whiteListSitesTitle": {
+		"message": "Siti in Whitelist"
+	},
+	"backTitle": {
+		"message": "Indietro"
+	},
+	"menuTitle": {
+		"message": "Menu"
+	},
+	"menuPrivacyOptions": {
+		"message": "Opzioni Privacy"
+	},
+	"menuRecentSLinks": {
+		"message": "Secure.Links Recenti"
+	},
+	"menuLanguages": {
+		"message": "Lingue"
+	},
+	"menuHelp": {
+		"message": "Aiutami!"
+	},
+	"menuMyAcc": {
+		"message": "Il Mio Account"
+	},
+	"menuUpgrade": {
+		"message": "Effettua Upgrade"
+	},
+	"menuLogout": {
+		"message": "Esci"
+	},
+	"recentLinksTitle": {
+		"message": "Link Recenti"
+	},
+	"recentLinksCopied": {
+		"message": "Copiato!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Nesssun titolo pagina"
+	},
+	"recentLinksSure": {
+		"message": "Sei sicuro?"
+	},
+	"recentLinksCopy": {
+		"message": "Copia"
+	},
+	"recentLinksYes": {
+		"message": "Si"
+	},
+	"recentLinksNo": {
+		"message": "No"
+	},
+	"remove": {
+		"message": "Rimuovi"
+	},
+	"recentLinksNoLinks": {
+		"message": "Non hai nessun secure link"
+	},
+	"recentLinksLearn": {
+		"message": "Scopri cosa sono i Secure.link"
+	},
+	"recentLinksToday": {
+		"message": "Oggi"
+	},
+	"recentLinksWeek": {
+		"message": "Settimana Scorsa"
+	},
+	"recentLinksMonth": {
+		"message": "Mese Scorso"
+	},
+	"recentLinksOlder": {
+		"message": "Pù Vecchio"
+	},
+	"privacyOptionsTitle": {
+		"message": "Opzioni Privacy"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Anti-Sociale"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "SPERIMENTALE: Rimuovi pulsanti social media"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Non Rintracciabile"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Blocca ad beacon e tracker noti"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Ad Blocker"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Blocca la pubblicità sulle pagine che visiti"
+	},
+	"privacyOptionsSplit": {
+		"message": "Personalità Multipla"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Ruota il tuo agente utente a caso"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Siti in Whitelist"
+	},
+	"privacyOptionsWLText": {
+		"message": "I siti sulla Whitelist non saranno influenzati dalle impostazioni sopra"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Gestisci Whitelist"
+	},
+	"privacyOptionsOn": {
+		"message": "acceso"
+	},
+	"privacyOptionsOff": {
+		"message": "spento"
+	},
+	"secLinkTitle": {
+		"message": "Opzioni Secure link"
+	},
+	"secLinkCopied": {
+		"message": "Link copiato"
+	},
+	"secLinkNotCopied": {
+		"message": "Link non copiato"
+	},
+	"secLinkAddPsw": {
+		"message": "Aggiungi password da criptare (opzionale)"
+	},
+	"secLinkAddMsg": {
+		"message": "Aggiungi Messaggio (opzionale)"
+	},
+	"secLinkWarn": {
+		"message": "La password deve contenere almeno 4 caratteri"
+	},
+	"secLinkForceIns": {
+		"message": "Forza installazione"
+	},
+	"secLinkNote": {
+		"message": "*Richiederà linstallazione di Windscribe per continuare"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Protezione Disattivata"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe non può funzionare se usi unaltra estensione che controlla le tue impostazioni proxy"
+	},
+	"errNetworkHeader": {
+		"message": "Oops, questo non dovrebbe succedere"
+	},
+	"errNetworkText": {
+		"message": "Impossibile raggiungere i server Windscribe. Non hai connettività Internet o qualcosa è andato storto dalla nostra parte"
+	},
+	"rateUsHeader": {
+		"message": "Ti piace Windscribe?"
+	},
+	"rateUsHeaderText": {
+		"message": "Apprezzeremmo molto una valutazione e una recensione su Chrome Store"
+	},
+	"rateUsCTA": {
+		"message": "Valutaci"
+	},
+	"rateUsNo": {
+		"message": "No Grazie"
+	},
+	"notificationOn": {
+		"message": "Sei ora connesso a Windscribe"
+	},
+	"notificationOff": {
+		"message": "La connessione a Windscribe è stata terminata"
+	},
+	"notificationOnDH1": {
+		"message": "Sei ora connesso a Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "Double hop attivato. Questo può causare penalità alle prestazioni"
+	},
+	"notificationOffDH": {
+		"message": "Connessione double hop terminata. La tua connessione è ancora controllata dalla app desktop Windscribe"
+	},
+	"notificationOnEM": {
+		"message": "Le tue impostazioni dirette sono controllate dalla App Desktop Windscribe"
+	},
+	"notificationEA": {
+		"message": "Le tue impostazioni dirette sono controllate dalla app desktop Windscribe. This connetti dallinterno della app per spegnere Windscribe"
+	},
+	"topNavDays": {
+		"message": "Giorni Rimasti"
+	},
+	"topNavDay": {
+		"message": "Giorno Rimasto"
+	},
+	"topNavUpgrade": {
+		"message": "Upgrade"
+	},
+	"topNavBanned": {
+		"message": "Bannato"
+	},
+	"topNavGBLeft": {
+		"message": "GB Rimasti"
+	}
+}

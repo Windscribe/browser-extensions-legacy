@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Inicie sesión en Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Usuario"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Contraseña"
+	},
+	"loginButtonText": {
+		"message": "Iniciar sesión"
+	},
+	"loginForgotPassword": {
+		"message": "Olvidé mi contraseña"
+	},
+	"loginSignUp": {
+		"message": "Registrarse"
+	},
+	"loginErr": {
+		"message": "Tu cuenta es incorrecta, inténtelo de nuevo"
+	},
+	"loginEmptyInput": {
+		"message": "Llene ambos, el 'Usuario' y 'Contraseña' para iniciar sesión"
+	},
+	"loginWelcomeMsg": {
+		"message": "Asombroso, te estamos conectando"
+	},
+	"statusConnectedDesktop": {
+		"message": "Conectado (Escritorio)"
+	},
+	"statusConnected": {
+		"message": "Conectado"
+	},
+	"statusDisconnected": {
+		"message": "Desconectado"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "La localización será cambiada automaticamente cuando se acceda a recursos bloqueados"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "La aplicación de escritorio esta ejecutandose. Estas acutalmente usando doble Proxy para tu tráfico. Esto es más seguro, pero podría ser más lento"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Tus configuraciones de internet están siendo controladas por la Aplicación de Escritorio Windscribe"
+	},
+	"connectionModeTooltipManual": {
+		"message": "La localización es escogida por ti"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "El modo es definido por tu configuración de proxy"
+	},
+	"upgradeTooltipText": {
+		"message": "Has excedido tu uso gratis del mes. Por favor actualízate"
+	},
+	"connectionModeText": {
+		"message": "Modo de Conexión"
+	},
+	"connectionModeNameCR": {
+		"message": "Control de Crucero"
+	},
+	"connectionModeNameML": {
+		"message": "Manual"
+	},
+	"connectionModeNameEA": {
+		"message": "Aplicación externa"
+	},
+	"connectionModeNameDH": {
+		"message": "Doble Salto"
+	},
+	"secureLinkTitle": {
+		"message": "Generador Secure.Link"
+	},
+	"secureLinkErrTooltip": {
+		"message": "No se puede crear un Secure.link de ésta página"
+	},
+	"secureLinkBtnText": {
+		"message": "Copiar Secure.Link"
+	},
+	"whiteListIt": {
+		"message": "La Lista Blanca"
+	},
+	"whiteListAdsOnly": {
+		"message": "Solo Publicidad"
+	},
+	"whiteListNoProxy": {
+		"message": "No Proxy"
+	},
+	"whiteListRemove": {
+		"message": "Remover de la Lista Blanca"
+	},
+	"whiteListListed": {
+		"message": "This site is whitelisted"
+	},
+	"whiteListIssues": {
+		"message": "Having Issues with this site?"
+	},
+	"whiteListTooltip": {
+		"message": "Cannot add empty page to whitelist"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Remove Site from Whitelist"
+	},
+	"whiteListAddBtnText": {
+		"message": "Add Site to"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Ads Whitelist"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Lista Blanca del Proxy"
+	},
+	"whiteListReportUrl": {
+		"message": "Reportar este URL para que podamos arreglarlo"
+	},
+	"whiteListReportThanks": {
+		"message": "Gracias, arreglaremos eso pronto"
+	},
+	"whiteListQuestion": {
+		"message": "¿Parar de bloquear Trackers en este sitio?"
+	},
+	"whiteListTitle": {
+		"message": "Opciones de la Lista Blanca"
+	},
+	"whiteListSitesTitle": {
+		"message": "Sitios de la Lista Blanca"
+	},
+	"backTitle": {
+		"message": "Retroceder"
+	},
+	"menuTitle": {
+		"message": "Menú"
+	},
+	"menuPrivacyOptions": {
+		"message": "Opciones de privacidad"
+	},
+	"menuRecentSLinks": {
+		"message": " Secure.Links Recientes"
+	},
+	"menuLanguages": {
+		"message": "Idiomas"
+	},
+	"menuHelp": {
+		"message": "Ayuda"
+	},
+	"menuMyAcc": {
+		"message": "Mi cuenta"
+	},
+	"menuUpgrade": {
+		"message": "Actualizar"
+	},
+	"menuLogout": {
+		"message": "Cerrar sesión"
+	},
+	"recentLinksTitle": {
+		"message": "Links recientes"
+	},
+	"recentLinksCopied": {
+		"message": "¡Copiado!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Sin página de título"
+	},
+	"recentLinksSure": {
+		"message": "¿Estás seguro?"
+	},
+	"recentLinksCopy": {
+		"message": "Copiar"
+	},
+	"recentLinksYes": {
+		"message": "Si"
+	},
+	"recentLinksNo": {
+		"message": "No"
+	},
+	"remove": {
+		"message": "Remover"
+	},
+	"recentLinksNoLinks": {
+		"message": "No tienes ningún Secure Link"
+	},
+	"recentLinksLearn": {
+		"message": "Aprender sobre Secure.link"
+	},
+	"recentLinksToday": {
+		"message": "Hoy"
+	},
+	"recentLinksWeek": {
+		"message": "La Semana Pasada"
+	},
+	"recentLinksMonth": {
+		"message": "El Mes Pasado"
+	},
+	"recentLinksOlder": {
+		"message": "Más antiguo"
+	},
+	"privacyOptionsTitle": {
+		"message": "Opciones de privacidad"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Anti-Social"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "EXPERIMENTAL: Remover los botones de medios sociales"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Ilocalizable"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Bloquear balizas y trackers de publicidad"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Bloqueador de publicidad"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Bloquear publicidad en páginas que tu visites"
+	},
+	"privacyOptionsSplit": {
+		"message": "Dividir personalidad"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Rotar al azar tu agente de usuario"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Sitios de la Lista Blanca"
+	},
+	"privacyOptionsWLText": {
+		"message": "Sitios en la Lista Blanca que no se verán afectados por las configuraciones de arriba"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Administrar Lista Blanca"
+	},
+	"privacyOptionsOn": {
+		"message": "Encendido"
+	},
+	"privacyOptionsOff": {
+		"message": "Apagado"
+	},
+	"secLinkTitle": {
+		"message": "Opciones de Secure link"
+	},
+	"secLinkCopied": {
+		"message": "Link Copiado"
+	},
+	"secLinkNotCopied": {
+		"message": "El Link no se copió"
+	},
+	"secLinkAddPsw": {
+		"message": "Añadir contraseña para encriptar (opcional)"
+	},
+	"secLinkAddMsg": {
+		"message": "Añadir mensaje (opcional)"
+	},
+	"secLinkWarn": {
+		"message": "La contraseña debe contener al menos 4 símbolos"
+	},
+	"secLinkForceIns": {
+		"message": "Forzar instalación"
+	},
+	"secLinkNote": {
+		"message": "*Requerirá que se instale Windscribe para continuar"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Protección deshabilitada"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe no puede funcionar cuando estas usando otra extension que este controlando tu configuración proxy"
+	},
+	"errNetworkHeader": {
+		"message": "Oops, eso no debió pasar"
+	},
+	"errNetworkText": {
+		"message": "No pudimos alcanzar los servidores de Windscribe. Ya sea que no tengas conexión a internet o algo está mal con nosotros"
+	},
+	"rateUsHeader": {
+		"message": "¿Qué tal te gusta Windscribe?"
+	},
+	"rateUsHeaderText": {
+		"message": "De verdad apreciamos una calificación y una reseña en la Chrome Store"
+	},
+	"rateUsCTA": {
+		"message": "Califícanos"
+	},
+	"rateUsNo": {
+		"message": "No Gracias"
+	},
+	"notificationOn": {
+		"message": "Ahora estás conectado a Windscribe"
+	},
+	"notificationOff": {
+		"message": "La conexión a Windscribe ha sido terminada"
+	},
+	"notificationOnDH1": {
+		"message": "Ahora estás conectado a Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "El Doble Salto está habilitado. Esto puede causar penalizaciones"
+	},
+	"notificationOffDH": {
+		"message": "La Conexión Doble Salto ha sido terminada. Su red aún está siendo controlada por la aplicación de escritorio Windscribe"
+	},
+	"notificationOnEM": {
+		"message": "Tu conexión a internet está siendo controlada por la aplicacion de escritorio de Windscribe"
+	},
+	"notificationEA": {
+		"message": "Tu conexión a internet está siendo controlada por la aplicación de escritorio de Windscribe. Desconectese dentro de la aplicación para apagar Windscribe"
+	},
+	"topNavDaysLeft": {
+		"message": "Días restantes"
+	},
+	"topNavDayLeft": {
+		"message": "Día restante"
+	},
+	"topNavUpgrade": {
+		"message": "Actualizar"
+	},
+	"topNavBanned": {
+		"message": "Baneado"
+	},
+	"topNavGBLeft": {
+		"message": "GB Salió"
+	}
+}

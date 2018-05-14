@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Windscribe에 로그인해주세요"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "사용자 이름"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "비밀번호"
+	},
+	"loginButtonText": {
+		"message": "로그인"
+	},
+	"loginForgotPassword": {
+		"message": "비밀번호 잊어버림"
+	},
+	"loginSignUp": {
+		"message": "회원가입"
+	},
+	"loginErr": {
+		"message": "이 로그인은 맞지 않은 것 같습니다, 다시 해주세요"
+	},
+	"loginEmptyInput": {
+		"message": "사용자 이름과 비밀번호를 채워서 로그인해주세요"
+	},
+	"loginWelcomeMsg": {
+		"message": "좋습니다, 지금 로그인하고 있습니다"
+	},
+	"statusConnectedDesktop": {
+		"message": "로그인 완료(데스크탑)"
+	},
+	"statusConnected": {
+		"message": "연결됨"
+	},
+	"statusDisconnected": {
+		"message": "연결 끊김"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "금지된 리소스에 연결하면 위치는 자동적으로 변합니다"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "데스크탑은 지금 실행이 되고 있습니다. 당신은 트래픽을 두 번 프록시하셨습니다. 이게 더 안전하지만, 느릴 수 있습니다"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "당신의 네트워크 세팅은 Windscribe Desktop App의 관리를 받고 있습니다"
+	},
+	"connectionModeTooltipManual": {
+		"message": "당신에 의해서 위치가 정해졌습니다"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "당신의 모드는 당신의 프록시 세팅에 따라서 변환됩니다"
+	},
+	"upgradeTooltipText": {
+		"message": "이번달 무료 사용량을 초과했습니다. 업그레이드해주세요"
+	},
+	"connectionModeText": {
+		"message": "연결 모드"
+	},
+	"connectionModeNameCR": {
+		"message": "크루즈 관리l"
+	},
+	"connectionModeNameML": {
+		"message": "수동"
+	},
+	"connectionModeNameEA": {
+		"message": "외부 앱"
+	},
+	"connectionModeNameDH": {
+		"message": "더블 홉"
+	},
+	"secureLinkTitle": {
+		"message": "안전한 링크 발생기"
+	},
+	"secureLinkErrTooltip": {
+		"message": "이 페이지에서 안전한 링크를 받을 수 없었습니다"
+	},
+	"secureLinkBtnText": {
+		"message": "안전한 링크 복사하기"
+	},
+	"whiteListIt": {
+		"message": "화이트리스트하기"
+	},
+	"whiteListAdsOnly": {
+		"message": "광고만"
+	},
+	"whiteListNoProxy": {
+		"message": "프록시 없음"
+	},
+	"whiteListRemove": {
+		"message": "화이트 리스트에서 제거하기"
+	},
+	"whiteListListed": {
+		"message": "이 사이트는 화이트리스트에 올라가 있습니다"
+	},
+	"whiteListIssues": {
+		"message": "이 사이트에 문제가 있나요?"
+	},
+	"whiteListTooltip": {
+		"message": "빈 페이지를 화이트 리스트에 추가할 수 없습니다"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "화이트리스트에서 사이트 제거하기"
+	},
+	"whiteListAddBtnText": {
+		"message": "사이트를 ___에 추가해주세요"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "광고 화이트리스트"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "프록시 화이트리스트"
+	},
+	"whiteListReportUrl": {
+		"message": "이 URL을 신고해주세요"
+	},
+	"whiteListReportThanks": {
+		"message": "감사합니다. 조만간 고치겠습니다"
+	},
+	"whiteListQuestion": {
+		"message": "이 사이트에 추적기 막기를 중단하시겠습니까??"
+	},
+	"whiteListTitle": {
+		"message": "화이트리스트 옵션"
+	},
+	"whiteListSitesTitle": {
+		"message": "화이트리스트 사이트"
+	},
+	"backTitle": {
+		"message": "뒤로 가기"
+	},
+	"menuTitle": {
+		"message": "메뉴"
+	},
+	"menuPrivacyOptions": {
+		"message": "개인정보 옵션"
+	},
+	"menuRecentSLinks": {
+		"message": "최근 안전한 링크"
+	},
+	"menuLanguages": {
+		"message": "언어들"
+	},
+	"menuHelp": {
+		"message": "도와주세요!"
+	},
+	"menuMyAcc": {
+		"message": "내 계정"
+	},
+	"menuUpgrade": {
+		"message": "업그레이드"
+	},
+	"menuLogout": {
+		"message": "로그아웃"
+	},
+	"recentLinksTitle": {
+		"message": "최근 링크"
+	},
+	"recentLinksCopied": {
+		"message": "복사됨!"
+	},
+	"recentLinksNoTitle": {
+		"message": "페이지 제목이 없습니다"
+	},
+	"recentLinksSure": {
+		"message": "확실하세요?"
+	},
+	"recentLinksCopy": {
+		"message": "복사"
+	},
+	"recentLinksYes": {
+		"message": "네"
+	},
+	"recentLinksNo": {
+		"message": "아니요"
+	},
+	"remove": {
+		"message": "제거"
+	},
+	"recentLinksNoLinks": {
+		"message": "당신은 안전한 링크가 없습니다"
+	},
+	"recentLinksLearn": {
+		"message": "안전한 링크에 대해서 알아보기"
+	},
+	"recentLinksToday": {
+		"message": "오늘"
+	},
+	"recentLinksWeek": {
+		"message": "저번 주"
+	},
+	"recentLinksMonth": {
+		"message": "저번 달"
+	},
+	"recentLinksOlder": {
+		"message": "전에"
+	},
+	"privacyOptionsTitle": {
+		"message": "개인정보 옵션"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "반사회적"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "실험중: 소셜 미디어 버튼을 제거합니다"
+	},
+	"privacyOptionsUntrace": {
+		"message": "추적할 수 없음"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "광고와 추적기를 제거합니다"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "광고 막기"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "당신이 가는 사이트의 광고를 막아줍니다"
+	},
+	"privacyOptionsSplit": {
+		"message": "이중인격"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "당신의 신문을 랜덤으로 변경합니다"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "화이트리스트된 사이트"
+	},
+	"privacyOptionsWLText": {
+		"message": "화이트리스트에 있는 사이트는 다음 세팅의 영향을 받지 않습니다"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "화이트리스트 관리하기"
+	},
+	"privacyOptionsOn": {
+		"message": "키기"
+	},
+	"privacyOptionsOff": {
+		"message": "끄기"
+	},
+	"secLinkTitle": {
+		"message": "안전한 링크 옵션"
+	},
+	"secLinkCopied": {
+		"message": "링크 복사됨"
+	},
+	"secLinkNotCopied": {
+		"message": "링크는 복사되지 않았습니다"
+	},
+	"secLinkAddPsw": {
+		"message": "암호화할 비밀번호를 추가하세요(옵션)"
+	},
+	"secLinkAddMsg": {
+		"message": "메시지를 추가하세요(옵션)"
+	},
+	"secLinkWarn": {
+		"message": "비밀번호는 4자 이상으로 구성이 되어 있어야 합니다"
+	},
+	"secLinkForceIns": {
+		"message": "강제 설치l"
+	},
+	"secLinkNote": {
+		"message": "*Windscribe이 설치되어 있어야 됩니다"
+	},
+	"errOtherExtensionHeader": {
+		"message": "보호 제거됨"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe은 당신이 프록시 세팅을 조절하는 다른 앱을 사용할 때 제기능을 발휘할 수 없습니다"
+	},
+	"errNetworkHeader": {
+		"message": "그건 일어나서는 안 되는 일입니다"
+	},
+	"errNetworkText": {
+		"message": "Windscribe 서버에 접속할 수 없습니다. 당신은 인터넷 연결이 없거나 저희 쪽의 문제입니다"
+	},
+	"rateUsHeader": {
+		"message": "Windscribe이 좋으신가요?"
+	},
+	"rateUsHeaderText": {
+		"message": "크롬 스토어에서 저희를 평가해주시면 감사하겠습니다"
+	},
+	"rateUsCTA": {
+		"message": "저희를 평가해주세요"
+	},
+	"rateUsNo": {
+		"message": "관심 없습니다"
+	},
+	"notificationOn": {
+		"message": "당신은 이제 Windscribe에 연결이 됐습니다"
+	},
+	"notificationOff": {
+		"message": "Windscribe으로부터의 연결이 끊어졌습니다"
+	},
+	"notificationOnDH1": {
+		"message": "당신은 Windscribe에 연결이 됐습니다"
+	},
+	"notificationOnDH2": {
+		"message": "더블 홉을 사용하고 계십니다. 성능에 문제가 생길 수도 있습니다"
+	},
+	"notificationOffDH": {
+		"message": "더블 홉 사용을 중지했습니다. 당신의 네트워크는 아직도 Windscribe desktop app에 의해서 관리를 받고 있습니다"
+	},
+	"notificationOnEM": {
+		"message": "당신의 네트워크는 Windscribe desktop app에 의해서 관리받고 있습니다"
+	},
+	"notificationEA": {
+		"message": "당신의 네트워크는 Windscribe desktop app에 의해서 관리받고 있습니다. 앱 내에서 연결을 해제해서 Windscribe을 꺼주세요"
+	},
+	"topNavDaysLeft": {
+		"message": "날들 남음"
+	},
+	"topNavDayLeft": {
+		"message": "날 남음"
+	},
+	"topNavUpgrade": {
+		"message": "업그레이드"
+	},
+	"topNavBanned": {
+		"message": "밴됨"
+	},
+	"topNavGBLeft": {
+		"message": "GB 남음"
+	}
+}

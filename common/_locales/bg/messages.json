@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Вписване в Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Потребителско име"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Парола"
+	},
+	"loginButtonText": {
+		"message": "Вписване"
+	},
+	"loginForgotPassword": {
+		"message": "Забравена парола"
+	},
+	"loginSignUp": {
+		"message": "Регистриране"
+	},
+	"loginErr": {
+		"message": "Това вписване е невалидно, опитайте отново"
+	},
+	"loginEmptyInput": {
+		"message": "Попълнете 'потребителско име' и 'парола', за да се впишете"
+	},
+	"loginWelcomeMsg": {
+		"message": "Страхотно, вписани сте"
+	},
+	"statusConnectedDesktop": {
+		"message": "Свързан (Десктоп)"
+	},
+	"statusConnected": {
+		"message": "Свързан"
+	},
+	"statusDisconnected": {
+		"message": "Несвързан"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "Локацията ще бъде променена автоматично, когато имате достъп до блокиран ресурс"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "Приложението работи. В момента прокси трафикът е удвоен. Това е по-сигурно, но може да бъде по-бавно"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Мрежовите Ви настройки се контролират от приложението Windscribe"
+	},
+	"connectionModeTooltipManual": {
+		"message": "Локацията е избрана от Вас"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "Вашият режим е определен от прокси настройките"
+	},
+	"upgradeTooltipText": {
+		"message": "Превишавате безплатното използване за този месец. Моля, обновете версията"
+	},
+	"connectionModeText": {
+		"message": "Режим на връзка"
+	},
+	"connectionModeNameCR": {
+		"message": "Круиз-контрол"
+	},
+	"connectionModeNameML": {
+		"message": "Ръчен контрол"
+	},
+	"connectionModeNameEA": {
+		"message": "Външно приложение"
+	},
+	"connectionModeNameDH": {
+		"message": "Double Hop"
+	},
+	"secureLinkTitle": {
+		"message": "Генератор Secure.Link"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Не може да се направи Secure.link за тази страница"
+	},
+	"secureLinkBtnText": {
+		"message": "Копиране на Secure.Link"
+	},
+	"whiteListIt": {
+		"message": "Добавяне в Whitelist"
+	},
+	"whiteListAdsOnly": {
+		"message": "Само реклами"
+	},
+	"whiteListNoProxy": {
+		"message": "Без прокси"
+	},
+	"whiteListRemove": {
+		"message": "Премахване от Whitelist"
+	},
+	"whiteListListed": {
+		"message": "Този сайт е в Whitelist"
+	},
+	"whiteListIssues": {
+		"message": "Имате проблеми с този сайт?"
+	},
+	"whiteListTooltip": {
+		"message": "Не може да се добави празна страница към Whitelist"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Премахване на сайт от Whitelist"
+	},
+	"whiteListAddBtnText": {
+		"message": "Добавяне на сайт към"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Реклами в Whitelist"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Прокси в Whitelist"
+	},
+	"whiteListReportUrl": {
+		"message": "Докладване на този URL, за да можем да го оправим"
+	},
+	"whiteListReportThanks": {
+		"message": "Благодарим. Ще го поправим съвсем скоро"
+	},
+	"whiteListQuestion": {
+		"message": "Спиране на блокинг тракери на този сайт?"
+	},
+	"whiteListTitle": {
+		"message": "Опции на Whitelist"
+	},
+	"whiteListSitesTitle": {
+		"message": "Сайтове в Whitelist"
+	},
+	"backTitle": {
+		"message": "Обратно"
+	},
+	"menuTitle": {
+		"message": "Меню"
+	},
+	"menuPrivacyOptions": {
+		"message": "Опции за поверителност"
+	},
+	"menuRecentSLinks": {
+		"message": "Скорошни Secure.Links"
+	},
+	"menuLanguages": {
+		"message": "Езици"
+	},
+	"menuHelp": {
+		"message": "Помощ!"
+	},
+	"menuMyAcc": {
+		"message": "Моят акаунт"
+	},
+	"menuUpgrade": {
+		"message": "Обновяване"
+	},
+	"menuLogout": {
+		"message": "Отписване"
+	},
+	"recentLinksTitle": {
+		"message": "Скорошни линкове"
+	},
+	"recentLinksCopied": {
+		"message": "Копирано!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Без заглавие на страница"
+	},
+	"recentLinksSure": {
+		"message": "Сигурни ли сте?"
+	},
+	"recentLinksCopy": {
+		"message": "Копиране"
+	},
+	"recentLinksYes": {
+		"message": "Да"
+	},
+	"recentLinksNo": {
+		"message": "Не"
+	},
+	"remove": {
+		"message": "Премахване"
+	},
+	"recentLinksNoLinks": {
+		"message": "Нямате защитени линкове"
+	},
+	"recentLinksLearn": {
+		"message": "Научете още за Secure.link"
+	},
+	"recentLinksToday": {
+		"message": "Днес"
+	},
+	"recentLinksWeek": {
+		"message": "Миналата седмица"
+	},
+	"recentLinksMonth": {
+		"message": "Миналият месец"
+	},
+	"recentLinksOlder": {
+		"message": "По-стари"
+	},
+	"privacyOptionsTitle": {
+		"message": "Опции за поверителност"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Антисоциална опция"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "ЕКСПЕРИМЕНТАЛНО: Премахване на бутони за социални медии"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Непроследимост"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Блокиране на познати рекламни маяци и тракери"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Блокер на реклами"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Блокиране на реклами на страниците, които посещавате"
+	},
+	"privacyOptionsSplit": {
+		"message": "Раздвоение на личността"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Периодична смяна на потребителски агент"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Сайтове в Whitelist"
+	},
+	"privacyOptionsWLText": {
+		"message": "Сайтовете в Whitelist няма да бъдат засегнати от по-горните настройки"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Управление на Whitelist"
+	},
+	"privacyOptionsOn": {
+		"message": "включено"
+	},
+	"privacyOptionsOff": {
+		"message": "изключено"
+	},
+	"secLinkTitle": {
+		"message": "Опции на Secure.link"
+	},
+	"secLinkCopied": {
+		"message": "Линкът е копиран"
+	},
+	"secLinkNotCopied": {
+		"message": "Линкът не е копиран"
+	},
+	"secLinkAddPsw": {
+		"message": "Добавяне на парола за криптиране (опционално)"
+	},
+	"secLinkAddMsg": {
+		"message": "Добавяне на съобщение (опционално)"
+	},
+	"secLinkWarn": {
+		"message": "Паролата трябва да съдържа поне 4 символа"
+	},
+	"secLinkForceIns": {
+		"message": "Force инсталиране"
+	},
+	"secLinkNote": {
+		"message": "*Изисква се Windscribe да бъде инсталиран, за да продължи напред"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Защитата е изключена"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe не може да работи, докато използвате друго разширение, което контролира прокси настройките"
+	},
+	"errNetworkHeader": {
+		"message": "Грешка, това не трябваше да се случва"
+	},
+	"errNetworkText": {
+		"message": "Не достигнахте сървърите на Windscribe. Или нямате връзка с Интернет или нещо при нас се е объркало"
+	},
+	"rateUsHeader": {
+		"message": "Харесвате ли Windscribe?"
+	},
+	"rateUsHeaderText": {
+		"message": "Наистина ще оценим всеки рейтинг и мнение в Chrome Store"
+	},
+	"rateUsCTA": {
+		"message": "Оценете ни"
+	},
+	"rateUsNo": {
+		"message": "Не, благодаря"
+	},
+	"notificationOn": {
+		"message": "Имате връзка с Windscribe"
+	},
+	"notificationOff": {
+		"message": "Връзката с Windscribe е прекратена"
+	},
+	"notificationOnDH1": {
+		"message": "Имате връзка с Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "Double hop е достъпна. Това може да доведе до проблеми при изпълнение"
+	},
+	"notificationOffDH": {
+		"message": "Double hop връзката е прекъсната. Мрежата Ви все още се контролира от десктоп приложението Windscribe"
+	},
+	"notificationOnEM": {
+		"message": "Мрежовите Ви настройки се контролират от десктоп приложението Windscribe"
+	},
+	"notificationEA": {
+		"message": "Мрежовите Ви настройки се контролират от десктоп приложението Windscribe.  Прекъснете връзката на приложението, за да изключите Windscribe"
+	},
+	"topNavDaysLeft": {
+		"message": "Оставащи дни"
+	},
+	"topNavDayLeft": {
+		"message": "Оставащ ден"
+	},
+	"topNavUpgrade": {
+		"message": "Обновяване"
+	},
+	"topNavBanned": {
+		"message": "Забранен"
+	},
+	"topNavGBLeft": {
+		"message": "Оставащи GB"
+	}
+}

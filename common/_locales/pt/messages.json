@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Entrar no Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Nome de utilizador"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Senha"
+	},
+	"loginButtonText": {
+		"message": "Entrar"
+	},
+	"loginForgotPassword": {
+		"message": "Esqueceu a Senha"
+	},
+	"loginSignUp": {
+		"message": "Registar"
+	},
+	"loginErr": {
+		"message": "Esta autenticação parece ser inválida, tente novamente"
+	},
+	"loginEmptyInput": {
+		"message": "Preencha o 'nome de utilizador' e a 'senha' para entrar"
+	},
+	"loginWelcomeMsg": {
+		"message": "Fantástico, você está autenticado"
+	},
+	"statusConnectedDesktop": {
+		"message": "Conectado (Desktop)"
+	},
+	"statusConnected": {
+		"message": "Conectado"
+	},
+	"statusDisconnected": {
+		"message": "Desconectado"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "A localização será alterada automaticamente quando aceder a um recurso bloqueado"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "A aplicação de desktop está a ser executada. Está atualmente a efetuar um duplo proxy ao seu tráfego. Isto é mais seguro, mas poderá ser mais lento"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "As suas definições de rede são controladas pela Aplicação Desktop do Windscribe"
+	},
+	"connectionModeTooltipManual": {
+		"message": "A localização é escolhida por si"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "O seu modo é definido pela suas definições de proxy"
+	},
+	"upgradeTooltipText": {
+		"message": "Você ultrapassou a sua utilização gratuita neste mês. Por favor atualize"
+	},
+	"connectionModeText": {
+		"message": "Modo de Conexão"
+	},
+	"connectionModeNameCR": {
+		"message": "Piloto Automático"
+	},
+	"connectionModeNameML": {
+		"message": "Manual"
+	},
+	"connectionModeNameEA": {
+		"message": "Aplicação Externa"
+	},
+	"connectionModeNameDH": {
+		"message": "Salto Duplo"
+	},
+	"secureLinkTitle": {
+		"message": "Gerador Secure.Link"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Não é possível estabelecer um Secure.link nesta página"
+	},
+	"secureLinkBtnText": {
+		"message": "Copiar Secure.Link"
+	},
+	"whiteListIt": {
+		"message": "Colocá-lo na Lista Segura"
+	},
+	"whiteListAdsOnly": {
+		"message": "Apenas Anúncios"
+	},
+	"whiteListNoProxy": {
+		"message": "Sem Proxy"
+	},
+	"whiteListRemove": {
+		"message": "Remover da Lista Segura"
+	},
+	"whiteListListed": {
+		"message": "Este site está na lista segura"
+	},
+	"whiteListIssues": {
+		"message": "Está a ter problemas com este site?"
+	},
+	"whiteListTooltip": {
+		"message": "Não é possível adicionar uma página em branco à lista segura"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Remover Site da Lista Segura"
+	},
+	"whiteListAddBtnText": {
+		"message": "Adicionar Site a"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Lista Segura de Anúncios"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Lista Segura de Proxy"
+	},
+	"whiteListReportUrl": {
+		"message": "Reporte este URL para que possamos corrigi-lo"
+	},
+	"whiteListReportThanks": {
+		"message": "Obrigado. Iremos solucionar o problema em breve"
+	},
+	"whiteListQuestion": {
+		"message": "Parar de Bloquear os Rastreadores neste Site?"
+	},
+	"whiteListTitle": {
+		"message": "Opções de Lista de Segurança"
+	},
+	"whiteListSitesTitle": {
+		"message": "Sites na Lista de Segurança"
+	},
+	"backTitle": {
+		"message": "Atrás"
+	},
+	"menuTitle": {
+		"message": "Menu"
+	},
+	"menuPrivacyOptions": {
+		"message": "Opções de Privacidade"
+	},
+	"menuRecentSLinks": {
+		"message": "Secure.Links recentes"
+	},
+	"menuLanguages": {
+		"message": "Idiomas"
+	},
+	"menuHelp": {
+		"message": "Ajude-me!"
+	},
+	"menuMyAcc": {
+		"message": "Minha conta"
+	},
+	"menuUpgrade": {
+		"message": "Atualizar"
+	},
+	"menuLogout": {
+		"message": "Sair"
+	},
+	"recentLinksTitle": {
+		"message": "Links Recentes"
+	},
+	"recentLinksCopied": {
+		"message": "Copiado!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Sem título de página"
+	},
+	"recentLinksSure": {
+		"message": "Tem a certeza?"
+	},
+	"recentLinksCopy": {
+		"message": "Copiar"
+	},
+	"recentLinksYes": {
+		"message": "Sim"
+	},
+	"recentLinksNo": {
+		"message": "Não"
+	},
+	"remove": {
+		"message": "Remover"
+	},
+	"recentLinksNoLinks": {
+		"message": "Não tem quaisquer links seguros"
+	},
+	"recentLinksLearn": {
+		"message": "Saber mais sobre Secure.link"
+	},
+	"recentLinksToday": {
+		"message": "Hoje"
+	},
+	"recentLinksWeek": {
+		"message": "Semana Passada"
+	},
+	"recentLinksMonth": {
+		"message": "Mês Passado"
+	},
+	"recentLinksOlder": {
+		"message": "Mais Antigo"
+	},
+	"privacyOptionsTitle": {
+		"message": "Opções de Privacidade"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Antissocial"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "EXPERIMENTAL: Remover botões das redes sociais"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Indetetável"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Bloquear polos e rastreadores conhecidos de anúncios"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Bloqueador de Anúncios"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Bloquear anúncios nas páginas que visita"
+	},
+	"privacyOptionsSplit": {
+		"message": "Dividir Personalidade"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Alternar aleatoriamente o seu agente de utilizador"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Sites na Lista de Segurança"
+	},
+	"privacyOptionsWLText": {
+		"message": "Sites na Lista de Segurança não serão afetados pelas definições acima"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Gerir Lista de Segurança"
+	},
+	"privacyOptionsOn": {
+		"message": "ligado"
+	},
+	"privacyOptionsOff": {
+		"message": "desligado"
+	},
+	"secLinkTitle": {
+		"message": "Opções de link seguro"
+	},
+	"secLinkCopied": {
+		"message": "Link copiado"
+	},
+	"secLinkNotCopied": {
+		"message": "Link não foi copiado"
+	},
+	"secLinkAddPsw": {
+		"message": "Adicionar senha para encriptar (opcional)"
+	},
+	"secLinkAddMsg": {
+		"message": "Adicionar mensagem (opcional)"
+	},
+	"secLinkWarn": {
+		"message": "A senha deve conter pelo menos 4 símbolos"
+	},
+	"secLinkForceIns": {
+		"message": "Forçar instalação"
+	},
+	"secLinkNote": {
+		"message": "*Para continuar será exigida a instalação do Windscribe"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Proteção Desabilitada"
+	},
+	"errOtherExtensionText": {
+		"message": "O Windscribe não consegue funcionar quando está a utilizar outra extensão que controla as suas definições proxy"
+	},
+	"errNetworkHeader": {
+		"message": "Ops, isso não deveria acontecer"
+	},
+	"errNetworkText": {
+		"message": "Não foi possível alcançar os servidores Windscribe. Ou não tem ligação à internet ou algo está mal da nossa parte"
+	},
+	"rateUsHeader": {
+		"message": "De que forma está a apreciar o Windscribe?"
+	},
+	"rateUsHeaderText": {
+		"message": "Gostaríamos muito de ter uma classificação e uma avaliação na Chrome Store"
+	},
+	"rateUsCTA": {
+		"message": "Avalie-nos"
+	},
+	"rateUsNo": {
+		"message": "Não Obrigado"
+	},
+	"notificationOn": {
+		"message": "Está agora conectado ao Windscribe"
+	},
+	"notificationOff": {
+		"message": "A conexão ao Windscribe foi terminada"
+	},
+	"notificationOnDH1": {
+		"message": "Está agora conectado ao Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "O salto duplo está ativado. Isto poderá provocar limitações ao desempenho"
+	},
+	"notificationOffDH": {
+		"message": "A conexão com salto duplo foi terminada. A sua rede está ainda a ser controlada pela aplicação desktop do Windscribe"
+	},
+	"notificationOnEM": {
+		"message": "As suas definições de rede ainda estão a ser controladas pela Aplicação Desktop do Windscribe"
+	},
+	"notificationEA": {
+		"message": "As suas definições de rede ainda estão a ser controladas pela Aplicação Desktop do Windscribe. Desconecte-se dentro da aplicação para desligar o Windscribe"
+	},
+	"topNavDaysLeft": {
+		"message": "Dias Restantes"
+	},
+	"topNavDayLeft": {
+		"message": "Dia Restante"
+	},
+	"topNavUpgrade": {
+		"message": "Atualizar"
+	},
+	"topNavBanned": {
+		"message": "Banido"
+	},
+	"topNavGBLeft": {
+		"message": "GB Restantes"
+	}
+}

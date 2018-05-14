@@ -1,0 +1,1 @@
+require('./background/newBackground.js');

@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Přihlásit se do Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "uživatel"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "heslo"
+	},
+	"loginButtonText": {
+		"message": "Přihlášení"
+	},
+	"loginForgotPassword": {
+		"message": "Zapomenuté heslo"
+	},
+	"loginSignUp": {
+		"message": "Registrace"
+	},
+	"loginErr": {
+		"message": "Během přihlašovaní vznikla chyba, zkuste to znovu"
+	},
+	"loginEmptyInput": {
+		"message": "Vyplňte pole 'uživatel' a 'heslo' pro přihlášení"
+	},
+	"loginWelcomeMsg": {
+		"message": "Super, přihlašujeme vás"
+	},
+	"statusConnectedDesktop": {
+		"message": "Přihlášený (Počítač)"
+	},
+	"statusConnected": {
+		"message": "Přihlášený"
+	},
+	"statusDisconnected": {
+		"message": "Odhlášený"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "Poloha bude změněná automaticky při přihlášení ze zablokované stránky"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "Počítačová aplikace funguje. Právě jste na dvojnásobný hodnotě proxy na stránce. Je to bezpečné, ale může to být pomalejší."
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Nastavení vaší sítě je kontrolované aplikaci Windscribe"
+	},
+	"connectionModeTooltipManual": {
+		"message": "Poloha je zvolená vámi"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "Váš mód je definovaný vašimi nastaveními proxy"
+	},
+	"upgradeTooltipText": {
+		"message": "Přesáhli jste váš měsíční limit používaní. Prosím, přejdete na vyšší level účtu"
+	},
+	"connectionModeText": {
+		"message": "Přihlašovaní"
+	},
+	"connectionModeNameCR": {
+		"message": "Kontrola řazení"
+	},
+	"connectionModeNameML": {
+		"message": "Manuál"
+	},
+	"connectionModeNameEA": {
+		"message": "Externí Aplikace"
+	},
+	"connectionModeNameDH": {
+		"message": "Dvojitý skok"
+	},
+	"secureLinkTitle": {
+		"message": "Secure.Link generátor"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Není možné vytvořit Secure.link z této stránky"
+	},
+	"secureLinkBtnText": {
+		"message": "Kopírovat Secure.Link"
+	},
+	"whiteListIt": {
+		"message": "Vložit to na Whitelist"
+	},
+	"whiteListAdsOnly": {
+		"message": "Len reklamy"
+	},
+	"whiteListNoProxy": {
+		"message": "Žádné proxy"
+	},
+	"whiteListRemove": {
+		"message": "Odstranit z White List"
+	},
+	"whiteListListed": {
+		"message": "Tato stránka je na whitelistu"
+	},
+	"whiteListIssues": {
+		"message": "Problémy se stránkou?"
+	},
+	"whiteListTooltip": {
+		"message": "Není možné přidat prázdnou stránku na whitelist"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Odstranit stránku z Whitelist"
+	},
+	"whiteListAddBtnText": {
+		"message": "Přidat stránku do"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Reklamy Whitelist"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Proxy Whitelist"
+	},
+	"whiteListReportUrl": {
+		"message": "Nahlásit tuto URL aby jsme ji mohli opravit"
+	},
+	"whiteListReportThanks": {
+		"message": "Děkujeme. Opravíme to co nejrychleji."
+	},
+	"whiteListQuestion": {
+		"message": "Zastavit sledováni této stránky?"
+	},
+	"whiteListTitle": {
+		"message": "Whitelist možnosti"
+	},
+	"whiteListSitesTitle": {
+		"message": "Whitelist stránky"
+	},
+	"backTitle": {
+		"message": "Zpět"
+	},
+	"menuTitle": {
+		"message": "Menu"
+	},
+	"menuPrivacyOptions": {
+		"message": "Možnosti o soukromí"
+	},
+	"menuRecentSLinks": {
+		"message": "Nedávné Secure.Links"
+	},
+	"menuLanguages": {
+		"message": "Jazyky"
+	},
+	"menuHelp": {
+		"message": "Pomozte mi!"
+	},
+	"menuMyAcc": {
+		"message": "Můj účet"
+	},
+	"menuUpgrade": {
+		"message": "Upgrade"
+	},
+	"menuLogout": {
+		"message": "Odhlášení"
+	},
+	"recentLinksTitle": {
+		"message": "Nedávné linky"
+	},
+	"recentLinksCopied": {
+		"message": "Zkopírované!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Žádný název stránky"
+	},
+	"recentLinksSure": {
+		"message": "Si si jistý?"
+	},
+	"recentLinksCopy": {
+		"message": "Kopírovat"
+	},
+	"recentLinksYes": {
+		"message": "Ano"
+	},
+	"recentLinksNo": {
+		"message": "Ne"
+	},
+	"remove": {
+		"message": "Odstranit"
+	},
+	"recentLinksNoLinks": {
+		"message": "Nemáte žádné zabezpečené linky"
+	},
+	"recentLinksLearn": {
+		"message": "Dozvědět se o Secure.link"
+	},
+	"recentLinksToday": {
+		"message": "Dnes"
+	},
+	"recentLinksWeek": {
+		"message": "Minulý týden"
+	},
+	"recentLinksMonth": {
+		"message": "Minulý měsíc"
+	},
+	"recentLinksOlder": {
+		"message": "Starší"
+	},
+	"privacyOptionsTitle": {
+		"message": "Možnosti o soukromí"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Anti-Sociální"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "Zkušební: Odstranit tlačítka sociálních sítí"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Nevystopovatelné"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Blokovat známe reklamní bannery a sledovací nástroje"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Ad Blocker"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Blokuje reklamy na stránkách které navštívíte"
+	},
+	"privacyOptionsSplit": {
+		"message": "Rozdělit osobnost"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Náhodně vyměnit vašeho uživatelského agenta"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Whitelist stránky"
+	},
+	"privacyOptionsWLText": {
+		"message": "Stránky na Whitelist nebudou ovlivněné tímto nastavením"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Organizovat Whitelist"
+	},
+	"privacyOptionsOn": {
+		"message": "zapnuté"
+	},
+	"privacyOptionsOff": {
+		"message": "vypnuté"
+	},
+	"secLinkTitle": {
+		"message": "Secure link možnosti"
+	},
+	"secLinkCopied": {
+		"message": "Link byl zkopírovaný"
+	},
+	"secLinkNotCopied": {
+		"message": "Link nebyl zkopírovaný"
+	},
+	"secLinkAddPsw": {
+		"message": "Přidat heslo pro zabezpečení (volitelné)"
+	},
+	"secLinkAddMsg": {
+		"message": "Přidat správu (volitelné)"
+	},
+	"secLinkWarn": {
+		"message": "Heslo musí obsahovat nejméně 4 symboly"
+	},
+	"secLinkForceIns": {
+		"message": "Nutná instalace"
+	},
+	"secLinkNote": {
+		"message": "*Bude vyžadovat Windscribe pro pokračovaní instalace"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Ochrana je vypnutá"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe nebude fungovat jestli používáte jiný nástroj který kontroluje vaše proxy nastavení"
+	},
+	"errNetworkHeader": {
+		"message": "Oops, to by se nemělo stát"
+	},
+	"errNetworkText": {
+		"message": "Nepodařilo se navázat na Windscribe servery. Buď nemáte připojení na Internet nebo na vašem konci je nějaký problém"
+	},
+	"rateUsHeader": {
+		"message": "Jak se vám líbi Windscribe?"
+	},
+	"rateUsHeaderText": {
+		"message": "Velmi by jsme ocenili hodnocení a komentář na Chrome Store"
+	},
+	"rateUsCTA": {
+		"message": "Hodnocení"
+	},
+	"rateUsNo": {
+		"message": "Ne, děkuji"
+	},
+	"notificationOn": {
+		"message": "Jste připojení do Windscribe"
+	},
+	"notificationOff": {
+		"message": "Spojení do Windscribe bylo přerušené"
+	},
+	"notificationOnDH1": {
+		"message": "Jste připojení do Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "Dvojitý skok je aktivovaný. Může to způsobit problémy s výkonem."
+	},
+	"notificationOffDH": {
+		"message": "Dvojitý skok je je přerušený. Vaše síť ale můžete pořád kontrolovat na Windscribe aplikaci pro počítač"
+	},
+	"notificationOnEM": {
+		"message": "Vaše nastavení sítě právě kontrolujete přes Windscribe aplikaci pro počítače"
+	},
+	"notificationEA": {
+		"message": "Vaše nastavení sítě právě kontrolujete přes Windscribe aplikaci pro počítač. Pro odhlášení je potřebné vypnout aplikaci Windscribe"
+	},
+	"topNavDaysLeft": {
+		"message": "Dní do konce"
+	},
+	"topNavDayLeft": {
+		"message": "Jeden den do konce"
+	},
+	"topNavUpgrade": {
+		"message": "Upgrade"
+	},
+	"topNavBanned": {
+		"message": "Zakázaný"
+	},
+	"topNavGBLeft": {
+		"message": "GB zbývajících"
+	}
+}

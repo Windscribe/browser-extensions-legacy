@@ -1,0 +1,332 @@
+{
+  "extName": {
+    "message": "Windscribe - Free VPN and Ad Blocker"
+  },
+  "extShortName": {
+    "message": "Windscribe"
+  },
+  "extDescription": {
+    "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+  },
+  "loginTitle": {
+    "message": "Windscribe התחבר ל"
+  },
+  "loginUsernamePlaceholder": {
+    "message": "שם משתמש"
+  },
+  "loginPasswordPlaceholder": {
+    "message": "סיסמא"
+  },
+  "loginButtonText": {
+    "message": "התחבר"
+  },
+  "loginForgotPassword": {
+    "message": "שכחת סיסמא"
+  },
+  "loginSignUp": {
+    "message": "הירשם"
+  },
+  "loginErr": {
+    "message": "נראה שהפרטי הכניסה לא חוקיים, אנא נסה שנית"
+  },
+  "loginEmptyInput": {
+    "message": "מלא את שם המשתמש והסיסמא כדי להתחבר"
+  },
+  "loginWelcomeMsg": {
+    "message": "מדהים, אתה מחובר"
+  },
+  "statusConnectedDesktop": {
+    "message": "(מחובר (שולחן עבודה"
+  },
+  "statusConnected": {
+    "message": "מחובר"
+  },
+  "statusDisconnected": {
+    "message": "מנותק"
+  },
+  "connectionModeTooltipCruiseControl": {
+    "message": "המיקום ישתנה באופן אוטומטי בעת גישה למשאב חסום"
+  },
+  "connectionModeTooltipDoubleHop": {
+    "message": "אפליקציית שולחן העבודה רצה. אתה כרגע בהגדרות  פרוקסי כפולות לתנועה שלך. זה יותר מאובטח אבל יכול להיות איטי יותר"
+  },
+  "connectionModeTooltipExternalApp": {
+    "message": "Windscribe Desktop הגדרות הרשת שלך נשלטות על ידי אפליקציית"
+  },
+  "connectionModeTooltipManual": {
+    "message": "המיקום נבחר על ידך"
+  },
+  "connectionModeTooltipDefault": {
+    "message": "מצב זה מוגדר על ידי הגדרות הפרוקסי שלך"
+  },
+  "upgradeTooltipText": {
+    "message": "חרגת מהשימוש החופשי לחודש זה. שדרג בבקשה"
+  },
+  "connectionModeText": {
+    "message": "מצב חיבור"
+  },
+  "connectionModeNameCR": {
+    "message": "בקרת שיוט"
+  },
+  "connectionModeNameML": {
+    "message": "ידני"
+  },
+  "connectionModeNameEA": {
+    "message": "יישום חיצוני"
+  },
+  "connectionModeNameDH": {
+    "message": "Double Hop"
+  },
+  "secureLinkTitle": {
+    "message": "Secure.Link מחולל"
+  },
+  "secureLinkErrTooltip": {
+    "message": "מהעמוד הזה secure.link לא יכול ליצור"
+  },
+  "secureLinkBtnText": {
+    "message": "Secure.Link העתק"
+  },
+  "whiteListIt": {
+    "message": "את זה Whitelist"
+  },
+  "whiteListAdsOnly": {
+    "message": "מודעות בלבד"
+  },
+  "whiteListNoProxy": {
+    "message": "ללא פרוקסי"
+  },
+  "whiteListRemove": {
+    "message": "White List הסר מה"
+  },
+  "whiteListListed": {
+    "message": "whitelisted האתר הזה הוא"
+  },
+  "whiteListIssues": {
+    "message": "?יש לך בעיה עם האתר הזה"
+  },
+  "whiteListTooltip": {
+    "message": "whitelist לא ניתן להעתיק דף ריק ל"
+  },
+  "whiteListRemoveBtnText": {
+    "message": "Whitelisted הסר את האתר מה"
+  },
+  "whiteListAddBtnText": {
+    "message": "הוסף אתר ל"
+  },
+  "whiteListAddAdsBtnText": {
+    "message": "Whitelist מודעות"
+  },
+  "whiteListAddProxyBtnText": {
+    "message": "Whitelist פרוקסי"
+  },
+  "whiteListReportUrl": {
+    "message": "דווח על כתובת אתר האינטרנט הזאת כדי שנוכל לתקן אותה"
+  },
+  "whiteListReportThanks": {
+    "message": "תודה. אנחנו נטפל בכך בקרוב"
+  },
+  "whiteListQuestion": {
+    "message": "?להפסיק לחסום טראקים באתר זה"
+  },
+  "whiteListTitle": {
+    "message": "Whitelist אפשרויות"
+  },
+  "whiteListSitesTitle": {
+    "message": "Whitelisted אתרי"
+  },
+  "backTitle": {
+    "message": "חזרה"
+  },
+  "menuTitle": {
+    "message": "תפריט"
+  },
+  "menuPrivacyOptions": {
+    "message": "אפשרויות פרטיות"
+  },
+  "menuRecentSLinks": {
+    "message": "אחרונים Secure.Links"
+  },
+  "menuLanguages": {
+    "message": "שפות"
+  },
+  "menuHelp": {
+    "message": "!עזור לי"
+  },
+  "menuMyAcc": {
+    "message": "החשבון שלי"
+  },
+  "menuUpgrade": {
+    "message": "שדרג"
+  },
+  "menuLogout": {
+    "message": "התנתק"
+  },
+  "recentLinksTitle": {
+    "message": "קישורים אחרונים"
+  },
+  "recentLinksCopied": {
+    "message": "!הועתק"
+  },
+  "recentLinksNoTitle": {
+    "message": "לא קיימת כותרת לדף"
+  },
+  "recentLinksSure": {
+    "message": "?האם אתה בטוח"
+  },
+  "recentLinksCopy": {
+    "message": "העתק"
+  },
+  "recentLinksYes": {
+    "message": "כן"
+  },
+  "recentLinksNo": {
+    "message": "לא"
+  },
+  "remove": {
+    "message": "הסר"
+  },
+  "recentLinksNoLinks": {
+    "message": "secure links אין לך"
+  },
+  "recentLinksLearn": {
+    "message": "secure.link למד על"
+  },
+  "recentLinksToday": {
+    "message": "היום"
+  },
+  "recentLinksWeek": {
+    "message": "שבוע שעבר"
+  },
+  "recentLinksMonth": {
+    "message": "חודש שעבר"
+  },
+  "recentLinksOlder": {
+    "message": "ישן יותר"
+  },
+  "privacyOptionsTitle": {
+    "message": "הגדרות פרטיות"
+  },
+  "privacyOptionsAntiSoc": {
+    "message": "אנטי-חברתי"
+  },
+  "privacyOptionsAntiSocNote": {
+    "message": "ניסיוני: הסר כפתורים של מדיה חברתית"
+  },
+  "privacyOptionsUntrace": {
+    "message": "לא ניתן לאיתור"
+  },
+  "privacyOptionsUntraceNote": {
+    "message": "חסימת מגדלורים ידועים וטראקרים"
+  },
+  "privacyOptionsAdBlock": {
+    "message": "חוסם מודעות"
+  },
+  "privacyOptionsAdBlockNote": {
+    "message": "חוסם מודעות בדפים שביקרת בהם"
+  },
+  "privacyOptionsSplit": {
+    "message": "פצל באופן אישי"
+  },
+  "privacyOptionsSplitNote": {
+    "message": "סובב באופן קראי את סוכן המשתמש שלך"
+  },
+  "privacyOptionsWLTitle": {
+    "message": "Whitelisted אתרי"
+  },
+  "privacyOptionsWLText": {
+    "message": "לא יושפעו מההגדלות למעלה Whitelist אתרים"
+  },
+  "privacyOptionsWLBtnText": {
+    "message": "Whitelist נהל את"
+  },
+  "privacyOptionsOn": {
+    "message": "הפעל"
+  },
+  "privacyOptionsOff": {
+    "message": "כבה"
+  },
+  "secLinkTitle": {
+    "message": "Secure link הגדרות"
+  },
+  "secLinkCopied": {
+    "message": "הקישור הועתק"
+  },
+  "secLinkNotCopied": {
+    "message": "הקישור לא הועתק"
+  },
+  "secLinkAddPsw": {
+    "message": "(הוסף סיסמא להצפנה (אופציונלי"
+  },
+  "secLinkAddMsg": {
+    "message": "(הוסף הודעה (אופציונלי"
+  },
+  "secLinkWarn": {
+    "message": "הסיסמא חייבת לכלול לפחות ארבע תווים"
+  },
+  "secLinkForceIns": {
+    "message": "כפה התקנה"
+  },
+  "secLinkNote": {
+    "message": "*כדי להמשיך Windscribe ידרוש את ההתקנה של"
+  },
+  "errOtherExtensionHeader": {
+    "message": "ההגנה מבוטלת"
+  },
+  "errOtherExtensionText": {
+    "message": "לא יכולה לעבוד כאשר אתה משתמש בהרחבה אחרת אשר שולטת בהגדרות הפרוקסי שלך Windscribe"
+  },
+  "errNetworkHeader": {
+    "message": "אופס זה לא אמור לקרות"
+  },
+  "errNetworkText": {
+    "message": "או שאין לך חיבור לאינטרנט או שמשהו אחר השתבש מהצד שלנו .Windscribe לא הצלחת להגיע לשרתים של"
+  },
+  "rateUsHeader": {
+    "message": "?Windscribe האם אתה אוהב את"
+  },
+  "rateUsHeaderText": {
+    "message": "אנחנו באמת נעריך את זה אם תדרג ותכתוב לנו סקירה בחנות של כרום"
+  },
+  "rateUsCTA": {
+    "message": "דרג אותנו"
+  },
+  "rateUsNo": {
+    "message": "לא תודה"
+  },
+  "notificationOn": {
+    "message": "Windscribe אתה עכשיו מחובר ל"
+},
+  "notificationOff": {
+    "message": "הופסק Windscribe החיבור ל"
+  },
+  "notificationOnDH1": {
+    "message": "Windscribe אתה כעת מחובר ל"
+  },
+  "notificationOnDH2": {
+    "message": "פועל. זה יכול לפגוע בביצועים Double up"
+  },
+  "notificationOffDH": {
+    "message": "Windscribe החיבור לדאבל אפ הסתיים. הרשת שלך עדיין נשלטת על ידי אפליקציית שולחן העבודה של"
+  },
+  "notificationOnEM": {
+    "message": "Windscribe הגדרות הרשת שלך נשלטות על ידי אפליקציית שולחן העבודה של"
+  },
+  "notificationEA": {
+    "message": ".Windscribe התנתק מהאפליקציה כדי לכבות אתWindscribe הגדרות הרשת שלך נשלטות על ידי אפליקציית שולחן העבודה של"
+  },
+  "topNavDaysLeft": {
+    "message": "ימים נתרו"
+  },
+  "topNavDayLeft": {
+    "message": "נותר יום אחד"
+  },
+  "topNavUpgrade": {
+    "message": "שדרוג"
+  },
+  "topNavBanned": {
+    "message": "מושעה"
+  },
+  "topNavGBLeft": {
+    "message": "נותרו GB"
+  }
+}

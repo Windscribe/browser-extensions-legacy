@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "विंडस्क्राइब करने के लिए लॉगिन करें "
+	},
+	"loginUsernamePlaceholder": {
+		"message": "यूज़रनेम "
+	},
+	"loginPasswordPlaceholder": {
+		"message": "पासवर्ड "
+	},
+	"loginButtonText": {
+		"message": "लॉगिन "
+	},
+	"loginForgotPassword": {
+		"message": "पासवर्ड भूल गए "
+	},
+	"loginSignUp": {
+		"message": "साइन अप करें "
+	},
+	"loginErr": {
+		"message": "यह लॉगिन अमान्य प्रतीत होता है, पुन: प्रयास करें "
+	},
+	"loginEmptyInput": {
+		"message": "लॉगिन करने के लिए दोनों 'यूज़रनेम' और 'पासवर्ड' भरें "
+	},
+	"loginWelcomeMsg": {
+		"message": "बहुत बढ़िया, हम आपको लॉगिन कर रहे हैं "
+	},
+	"statusConnectedDesktop": {
+		"message": "(डेस्कटॉप) से कनेक्ट"
+	},
+	"statusConnected": {
+		"message": "कनेक्टेड "
+	},
+	"statusDisconnected": {
+		"message": "डिस्कनेक्टेड "
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "अवरोधित संसाधन में प्रवेश पर लोकेशन स्वचालित रूप से बदल जाएगी "
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "डेस्कटॉप ऍप चल रहा है। अभी आप अपने ट्रैफिक को डबल प्रॉक्सी कर रहे हैं। यह अधिक सुरक्षित है, लेकिन धीमा हो सकता है। "
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "आपकी नेटवर्क सेटिंग्स विंडस्क्राइब डेस्कटॉप ऍप द्वारा नियंत्रित होती हैं "
+	},
+	"connectionModeTooltipManual": {
+		"message": "लोकेशन आप के द्वारा चुनी गयी है "
+	},
+	"connectionModeTooltipDefault": {
+		"message": "आपका मोड आपकी प्रॉक्सी सेटिंग्स द्वारा परिभाषित किया गया है "
+	},
+	"upgradeTooltipText": {
+		"message": "आपने इस महीने के अपने मुफ्त उपयोग से अधिक कर लिया है। कृपया अपग्रेड करें "
+	},
+	"connectionModeText": {
+		"message": "कनेक्शन मोड "
+	},
+	"connectionModeNameCR": {
+		"message": "क्रूज कंट्रोल "
+	},
+	"connectionModeNameML": {
+		"message": "मैनुअल "
+	},
+	"connectionModeNameEA": {
+		"message": "बाहरी ऍप "
+	},
+	"connectionModeNameDH": {
+		"message": "डबल हॉप "
+	},
+	"secureLinkTitle": {
+		"message": "जनरेटर "
+	},
+	"secureLinkErrTooltip": {
+		"message": "इस पेज से नहीं बना सकते "
+	},
+	"secureLinkBtnText": {
+		"message": "को कॉपी करें "
+	},
+	"whiteListIt": {
+		"message": "इसे वाइटलिस्ट करें "
+	},
+	"whiteListAdsOnly": {
+		"message": "केवल एड्स "
+	},
+	"whiteListNoProxy": {
+		"message": "प्रॉक्सी नहीं "
+	},
+	"whiteListRemove": {
+		"message": "वाइट लिस्ट से हटायें "
+	},
+	"whiteListListed": {
+		"message": "यह साइट वाइट लिस्ट की गयी है "
+	},
+	"whiteListIssues": {
+		"message": "इस साइट के साथ समस्याएं हैं? "
+	},
+	"whiteListTooltip": {
+		"message": "खाली पेज को वाइट लिस्ट में नहीं जोड़ सकते "
+	},
+	"whiteListRemoveBtnText": {
+		"message": "वाइट लिस्ट से साइट को हटायें "
+	},
+	"whiteListAddBtnText": {
+		"message": "साइट को जोडें "
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "वाइट लिस्ट एड्स करें "
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "वाइट लिस्ट प्रॉक्सी करें "
+	},
+	"whiteListReportUrl": {
+		"message": "इस यूआरएल की रिपोर्ट करें ताकि हम इसे ठीक कर सकें "
+	},
+	"whiteListReportThanks": {
+		"message": "धन्यवाद। हम शीघ्र ही इसे ठीक करेंगे "
+	},
+	"whiteListQuestion": {
+		"message": "इस साइट पर ट्रैकर्स अवरुद्ध करना बंद करें?"
+	},
+	"whiteListTitle": {
+		"message": "ऑपशन्स को वाइट लिस्ट करें"
+	},
+	"whiteListSitesTitle": {
+		"message": "वाइट लिस्ट करी हुई साइट"
+	},
+	"backTitle": {
+		"message": "बैक"
+	},
+	"menuTitle": {
+		"message": "मेन्यू"
+	},
+	"menuPrivacyOptions": {
+		"message": "गोपनीयता विकल्प "
+	},
+	"menuRecentSLinks": {
+		"message": "नए "
+	},
+	"menuLanguages": {
+		"message": "भाषाएँ "
+	},
+	"menuHelp": {
+		"message": "मेरी मदद कीजिए!"
+	},
+	"menuMyAcc": {
+		"message": "मेरा अकाउंट"
+	},
+	"menuUpgrade": {
+		"message": "अपग्रेड"
+	},
+	"menuLogout": {
+		"message": "लॉगआउट"
+	},
+	"recentLinksTitle": {
+		"message": "नए लिंक्स"
+	},
+	"recentLinksCopied": {
+		"message": "कॉपी किया गया!"
+	},
+	"recentLinksNoTitle": {
+		"message": "कोई पेज का शीर्षक नहीं "
+	},
+	"recentLinksSure": {
+		"message": "क्या आपको यकीन है?"
+	},
+	"recentLinksCopy": {
+		"message": "कॉपी "
+	},
+	"recentLinksYes": {
+		"message": "हाँ "
+	},
+	"recentLinksNo": {
+		"message": "नहीं "
+	},
+	"remove": {
+		"message": "हटाएँ "
+	},
+	"recentLinksNoLinks": {
+		"message": "आपके पास कोई सुरक्षित लिंक नहीं है "
+	},
+	"recentLinksLearn": {
+		"message": "के बारे में जानें "
+	},
+	"recentLinksToday": {
+		"message": "आज "
+	},
+	"recentLinksWeek": {
+		"message": "पिछले हफ्ते "
+	},
+	"recentLinksMonth": {
+		"message": "पिछले महीने "
+	},
+	"recentLinksOlder": {
+		"message": "पुराना "
+	},
+	"privacyOptionsTitle": {
+		"message": "गोपनीयता विकल्प "
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "असामाजिक "
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "प्रायोगिक: सोशल मीडिया बटन को हटाएं "
+	},
+	"privacyOptionsUntrace": {
+		"message": "ऑनट्रेसेबल "
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "ज्ञात एड बीकन और ट्रैकर ब्लॉक करें "
+	},
+	"privacyOptionsAdBlock": {
+		"message": "एड ब्लॉकर "
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "आपके द्वारा विज़िट किए गए पेजेज पर एड ब्लॉक करता है "
+	},
+	"privacyOptionsSplit": {
+		"message": "दोहरा व्यक्तित्व "
+	},
+	"privacyOptionsSplitNote": {
+		"message": "अपने यूजर एजेंट को रैंडमली घुमायें "
+	},
+	"privacyOptionsWLTitle": {
+		"message": "वाइट लिस्टेड साइटें "
+	},
+	"privacyOptionsWLText": {
+		"message": "वाइट लिस्ट वाली साइटें ऊपर की सेटिंग्स से प्रभावित नहीं होगी "
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "वाइट लिस्ट को प्रबंधित करें "
+	},
+	"privacyOptionsOn": {
+		"message": "ऑन "
+	},
+	"privacyOptionsOff": {
+		"message": "ऑफ "
+	},
+	"secLinkTitle": {
+		"message": "लिंक विकल्प सुरक्षित करें "
+	},
+	"secLinkCopied": {
+		"message": "लिंक कॉपी किया गया "
+	},
+	"secLinkNotCopied": {
+		"message": "लिंक ने कॉपी नहीं किया "
+	},
+	"secLinkAddPsw": {
+		"message": "एन्क्रिप्ट करने के लिए पासवर्ड जोड़ें (वैकल्पिक) "
+	},
+	"secLinkAddMsg": {
+		"message": "संदेश जोड़ें (वैकल्पिक)"
+	},
+	"secLinkWarn": {
+		"message": "पासवर्ड में कम से कम 4 सिंबल होने चाहिए "
+	},
+	"secLinkForceIns": {
+		"message": "जबरदस्ती इनस्टॉल करें "
+	},
+	"secLinkNote": {
+		"message": "* जारी रखने के लिए विंडस्क्राइब को इनस्टॉल करने की आवश्यकता होगी "
+	},
+	"errOtherExtensionHeader": {
+		"message": "संरक्षण अक्षम "
+	},
+	"errOtherExtensionText": {
+		"message": "जब आप किसी अन्य एक्सटेंशन का उपयोग कर रहे हैं, जो आपकी प्रॉक्सी सेटिंग को नियंत्रित कर रहा है,तो विंडस्क्राइब काम नहीं कर सकता "
+	},
+	"errNetworkHeader": {
+		"message": "ओह, ऐसा नहीं होना चाहिए "
+	},
+	"errNetworkText": {
+		"message": "विंडस्क्राइब सर्वरों तक नहीं पहुंचा जा रहा है। आपके पास या तो इंटरनेट कनेक्टिविटी नहीं है या हमारी तरफ ही कुछ गलत है "
+	},
+	"rateUsHeader": {
+		"message": "आप विंडस्क्राइब को कैसा पसंद कर रहे हैं?"
+	},
+	"rateUsHeaderText": {
+		"message": "हम क्रोम स्टोर में रेटिंग और समीक्षा की वास्तव में सराहना करेंगे "
+	},
+	"rateUsCTA": {
+		"message": "हमें रेटिंग दें "
+	},
+	"rateUsNo": {
+		"message": "जी नहीं, धन्यवाद "
+	},
+	"notificationOn": {
+		"message": "अब आप विंडस्क्राइब से जुड़ गए हैं "
+	},
+	"notificationOff": {
+		"message": "विंडस्क्राइब से कनेक्शन समाप्त कर दिया गया है "
+	},
+	"notificationOnDH1": {
+		"message": "अब आप विंडस्क्राइब से जुड़ गए हैं "
+	},
+	"notificationOnDH2": {
+		"message": "डबल हॉप सक्षम है। इससे प्रदर्शन में पेनल्टी हो सकती है "
+	},
+	"notificationOffDH": {
+		"message": "डबल हॉप कनेक्शन समाप्त कर दिया गया है। आपके नेटवर्क को अभी भी विंडस्क्राइब डेस्कटॉप ऍप द्वारा नियंत्रित किया जा रहा है "
+	},
+	"notificationOnEM": {
+		"message": "आपकी नेटवर्क सेटिंग को विंडस्क्राइब डेस्कटॉप ऍप द्वारा नियंत्रित किया जा रहा है "
+	},
+	"notificationEA": {
+		"message": "आपकी नेटवर्क सेटिंग को विंडस्क्राइब डेस्कटॉप ऍप द्वारा नियंत्रित किया जा रहा है। विंडस्क्राइब बंद करने के लिए ऍप के अंदर डिस्कनेक्ट करें "
+	},
+	"topNavDaysLeft": {
+		"message": "दिन बचे हैं "
+	},
+	"topNavDayLeft": {
+		"message": "दिन बचा है "
+	},
+	"topNavUpgrade": {
+		"message": "अपग्रेड "
+	},
+	"topNavBanned": {
+		"message": "प्रतिबंधित "
+	},
+	"topNavGBLeft": {
+		"message": "जीबी चला गया "
+	}
+}

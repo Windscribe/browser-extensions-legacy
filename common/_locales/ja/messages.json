@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Windscribeにログイン"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "ユーザーネーム"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "パスワード"
+	},
+	"loginButtonText": {
+		"message": "ログイン"
+	},
+	"loginForgotPassword": {
+		"message": "パスワードをお忘れですか？"
+	},
+	"loginSignUp": {
+		"message": "サインアップ"
+	},
+	"loginErr": {
+		"message": "このログインは無効です。もう一度お試しください"
+	},
+	"loginEmptyInput": {
+		"message": "ログインするには「ユーザーネーム」と「パスワード」の両方を入力してください"
+	},
+	"loginWelcomeMsg": {
+		"message": "ログイン中です"
+	},
+	"statusConnectedDesktop": {
+		"message": "接続(デスクトップ)"
+	},
+	"statusConnected": {
+		"message": "接続"
+	},
+	"statusDisconnected": {
+		"message": "切断"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "ブロックされたリソースにアクセスすると、場所が自動的に変更されます"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "デスクトップアプリが実行中です。 現在、トラフィックを二重プロキシしています。 これはより安全ですが、遅くなる可能性があります"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "ネットワーク設定はWindscribeデスクトップアプリによって制御されます"
+	},
+	"connectionModeTooltipManual": {
+		"message": "場所は自分で選べます"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "モードはあなたのプロキシ設定によって定義されます"
+	},
+	"upgradeTooltipText": {
+		"message": "今月の無料使用を超えました。 アップグレードしてください"
+	},
+	"connectionModeText": {
+		"message": "接続モード"
+	},
+	"connectionModeNameCR": {
+		"message": "クルーズコントロール"
+	},
+	"connectionModeNameML": {
+		"message": "マニュアル"
+	},
+	"connectionModeNameEA": {
+		"message": "外部アップリ"
+	},
+	"connectionModeNameDH": {
+		"message": "ダブルホップ"
+	},
+	"secureLinkTitle": {
+		"message": "Secure.Linkジェネレーター"
+	},
+	"secureLinkErrTooltip": {
+		"message": "このページからはSecure.linkを作成できません"
+	},
+	"secureLinkBtnText": {
+		"message": "Secure.Linkをコピー"
+	},
+	"whiteListIt": {
+		"message": "ホワイトリストに登録"
+	},
+	"whiteListAdsOnly": {
+		"message": "広告のみ"
+	},
+	"whiteListNoProxy": {
+		"message": "プロキシ無し"
+	},
+	"whiteListRemove": {
+		"message": "ホワイトリストから削除"
+	},
+	"whiteListListed": {
+		"message": "このサイトはホワイトリストに登録されています"
+	},
+	"whiteListIssues": {
+		"message": "このサイトに問題がありますか？"
+	},
+	"whiteListTooltip": {
+		"message": "ホワイトリストに空のページは追加できません"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "ホワイトリストからサイトを削除する"
+	},
+	"whiteListAddBtnText": {
+		"message": "サイトを＿に追加する。"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "ホワイリストの広告"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "プロキシホワイトリスト"
+	},
+	"whiteListReportUrl": {
+		"message": "このURLを修正の為に報告する"
+	},
+	"whiteListReportThanks": {
+		"message": "ありがとうございました。 まもなく修正されます"
+	},
+	"whiteListQuestion": {
+		"message": "このサイトのトラッカーをブロックしないでください。"
+	},
+	"whiteListTitle": {
+		"message": "ホワイトリストオプション"
+	},
+	"whiteListSitesTitle": {
+		"message": "ホワイトリストに登録されているサイト"
+	},
+	"backTitle": {
+		"message": "戻る"
+	},
+	"menuTitle": {
+		"message": "メニュー"
+	},
+	"menuPrivacyOptions": {
+		"message": "プライバシーオプション"
+	},
+	"menuRecentSLinks": {
+		"message": "最近のSecure.Links"
+	},
+	"menuLanguages": {
+		"message": "言語"
+	},
+	"menuHelp": {
+		"message": "ヘルプ!"
+	},
+	"menuMyAcc": {
+		"message": "アカウント"
+	},
+	"menuUpgrade": {
+		"message": "アップグレード"
+	},
+	"menuLogout": {
+		"message": "ログアウト"
+	},
+	"recentLinksTitle": {
+		"message": "’最近のリンク"
+	},
+	"recentLinksCopied": {
+		"message": "コピー!"
+	},
+	"recentLinksNoTitle": {
+		"message": "ページタイトルなし"
+	},
+	"recentLinksSure": {
+		"message": "本当によろしいですか?"
+	},
+	"recentLinksCopy": {
+		"message": "コピー"
+	},
+	"recentLinksYes": {
+		"message": "はい"
+	},
+	"recentLinksNo": {
+		"message": "いいえ"
+	},
+	"remove": {
+		"message": "削除"
+	},
+	"recentLinksNoLinks": {
+		"message": "Secure linkを持っていません"
+	},
+	"recentLinksLearn": {
+		"message": "Secure.linkについて学ぶ"
+	},
+	"recentLinksToday": {
+		"message": "今日"
+	},
+	"recentLinksWeek": {
+		"message": "先週"
+	},
+	"recentLinksMonth": {
+		"message": "先月"
+	},
+	"recentLinksOlder": {
+		"message": "もっと古い"
+	},
+	"privacyOptionsTitle": {
+		"message": "プライバシーオプション"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "アンチソーシャル"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "実験中: ソーシャルメディアボタンの削除"
+	},
+	"privacyOptionsUntrace": {
+		"message": "追跡不可"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "既知の広告ビーコンとトラッカーをブロックする"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "広告ブロッカー"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "訪問したページの広告をブロック"
+	},
+	"privacyOptionsSplit": {
+		"message": "二重人格"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "ユーザーエージェントをランダムに回転させる"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "ホワイトリストに登録されたサイト"
+	},
+	"privacyOptionsWLText": {
+		"message": "ホワイトリストのサイトは上記の設定の影響を受けません"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "ホワイトリストを管理する"
+	},
+	"privacyOptionsOn": {
+		"message": "オン"
+	},
+	"privacyOptionsOff": {
+		"message": "オフ"
+	},
+	"secLinkTitle": {
+		"message": "Secure link オプション"
+	},
+	"secLinkCopied": {
+		"message": "リンクのコピー完了"
+	},
+	"secLinkNotCopied": {
+		"message": "リンクをコピーできませんでした"
+	},
+	"secLinkAddPsw": {
+		"message": "暗号化するパスワードを追加（オプション）"
+	},
+	"secLinkAddMsg": {
+		"message": "メッセージを追加する（オプション）"
+	},
+	"secLinkWarn": {
+		"message": "パスワードは少なくとも4つの記号を含む必要があります"
+	},
+	"secLinkForceIns": {
+		"message": "強制インストール"
+	},
+	"secLinkNote": {
+		"message": "*Windscribeをインストールして続行する必要があります"
+	},
+	"errOtherExtensionHeader": {
+		"message": "保護無効"
+	},
+	"errOtherExtensionText": {
+		"message": "プロキシ設定を制御している別の拡張機能を使用している際はWindscribeは動作しません"
+	},
+	"errNetworkHeader": {
+		"message": "おっと、これは起こらないはずです"
+	},
+	"errNetworkText": {
+		"message": "Windscribeサーバーに到達できませんでした。 あなたはインターネットに接続していないか、こっち側で何かが間違っています"
+	},
+	"rateUsHeader": {
+		"message": "Windscribeをお楽しみですか?"
+	},
+	"rateUsHeaderText": {
+		"message": "Chromeストアで評価とレビューをいただけると嬉しいです"
+	},
+	"rateUsCTA": {
+		"message": "評価する"
+	},
+	"rateUsNo": {
+		"message": "いいえ"
+	},
+	"notificationOn": {
+		"message": "Windscribeに接続しました。"
+	},
+	"notificationOff": {
+		"message": "Windscribeへの接続が終了しました"
+	},
+	"notificationOnDH1": {
+		"message": "Windscribeに接続しました。"
+	},
+	"notificationOnDH2": {
+		"message": "ダブルホップが有効です。 これはパフォーマンスを低下させる可能性があります"
+	},
+	"notificationOffDH": {
+		"message": "ダブルホップ接続が終了しました。 あなたのネットワークはまだWindscribeデスクトップアプリケーションによって制御されています"
+	},
+	"notificationOnEM": {
+		"message": "ネットワーク設定はWindscribe Desktop Appによって制御されています"
+	},
+	"notificationEA": {
+		"message": "ネットワーク設定はWindscribeデスクトップアプリケーションによって制御されています。 Windscribeをオフにするには、アプリ内で切断してください"
+	},
+	"topNavDaysLeft": {
+		"message": "後＿日"
+	},
+	"topNavDayLeft": {
+		"message": "後＿日"
+	},
+	"topNavUpgrade": {
+		"message": "アップグレード"
+	},
+	"topNavBanned": {
+		"message": "禁止されています"
+	},
+	"topNavGBLeft": {
+		"message": "後＿GB"
+	}
+}

@@ -1,0 +1,332 @@
+{
+  "extName": {
+    "message": "Windscribe - Free VPN and Ad Blocker"
+  },
+  "extShortName": {
+    "message": "Windscribe"
+  },
+  "extDescription": {
+    "message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+  },
+  "loginTitle": {
+    "message": "Masuk ke Windscribe"
+  },
+  "loginUsernamePlaceholder": {
+    "message": "Nama Pengguna"
+  },
+  "loginPasswordPlaceholder": {
+    "message": "Kata Sandi"
+  },
+  "loginButtonText": {
+    "message": "Masuk"
+  },
+  "loginForgotPassword": {
+    "message": "Lupa Kata Sandi"
+  },
+  "loginSignUp": {
+    "message": "Daftar"
+  },
+  "loginErr": {
+    "message": "Login ini sepertinya tidak valid, coba lagi"
+  },
+  "loginEmptyInput": {
+    "message": " Isi baik �nama pengguna� dan �kata sandi� untu masuk"
+  },
+  "loginWelcomeMsg": {
+    "message": " Luar biasa, kami akan memasukkanmu"
+  },
+  "statusConnectedDesktop": {
+    "message": "Terhubung (Desktop)"
+  },
+  "statusConnected": {
+    "message": "Terhubung"
+  },
+  "statusDisconnected": {
+    "message": "Terputus"
+  },
+  "connectionModeTooltipCruiseControl": {
+    "message": "Lokasi akan diganti secara otomatis saat mengakses sumber daya yang diblokir"
+  },
+  "connectionModeTooltipDoubleHop": {
+    "message": "Aplikasi desktop sedang berjalan. Anda saat ini menggandakan proxy trafik Anda. Ini lebih aman, tapi bisa lebih lambat"
+  },
+  "connectionModeTooltipExternalApp": {
+    "message": "Pengaturan jaringan Anda dikontrol oleh Aplikasi Desktop Windscribe"
+  },
+  "connectionModeTooltipManual": {
+    "message": "Lokasi dipilih oleh Anda"
+  },
+  "connectionModeTooltipDefault": {
+    "message": "Modus Anda didefinisikan oleh pengaturan proxy Anda"
+  },
+  "upgradeTooltipText": {
+    "message": "Anda melampaui penggunaan gratis Anda bulan ini. Silahkan tingkatkan"
+  },
+  "connectionModeText": {
+    "message": "Modus Koneksi"
+  },
+  "connectionModeNameCR": {
+    "message": "Kontrol Cruise"
+  },
+  "connectionModeNameML": {
+    "message": "Manual"
+  },
+  "connectionModeNameEA": {
+    "message": "Aplikasi Eksternal"
+  },
+  "connectionModeNameDH": {
+    "message": "Lompatan Ganda"
+  },
+  "secureLinkTitle": {
+    "message": "Pembuat Secure.Link"
+  },
+  "secureLinkErrTooltip": {
+    "message": "Tidak bisa membuat Secure.link dari halaman ini"
+  },
+  "secureLinkBtnText": {
+    "message": "Salin Secure.Link"
+  },
+  "whiteListIt": {
+    "message": "Masukkan daftar putih"
+  },
+  "whiteListAdsOnly": {
+    "message": "Hanya iklan"
+  },
+  "whiteListNoProxy": {
+    "message": "Tanpa Proksi"
+  },
+  "whiteListRemove": {
+    "message": "Hapus dari daftar putih"
+  },
+  "whiteListListed": {
+    "message": "Situs ini masuk daftar putih"
+  },
+  "whiteListIssues": {
+    "message": "Punya masalah dengan situs ini?"
+  },
+  "whiteListTooltip": {
+    "message": "Tidak bisa menambah halaman kosong ke daftar putih"
+  },
+  "whiteListRemoveBtnText": {
+    "message": "Hapus Situs dari Daftar Putih"
+  },
+  "whiteListAddBtnText": {
+    "message": "Tambah Situs ke"
+  },
+  "whiteListAddAdsBtnText": {
+    "message": "Daftar Putih Iklan"
+  },
+  "whiteListAddProxyBtnText": {
+    "message": "Daftar Putih Proksi"
+  },
+  "whiteListReportUrl": {
+    "message": "Laporkan URL ini agar bisa kami perbaiki"
+  },
+  "whiteListReportThanks": {
+    "message": "Terimakasih. Kami akan segera memperbaikinya"
+  },
+  "whiteListQuestion": {
+    "message": "Hentikan Blokir Pelacak di situs ini?"
+  },
+  "whiteListTitle": {
+    "message": "Pilihan Daftar Putih"
+  },
+  "whiteListSitesTitle": {
+    "message": "Situs dalam daftar putih"
+  },
+  "backTitle": {
+    "message": "Kembali"
+  },
+  "menuTitle": {
+    "message": "Menu"
+  },
+  "menuPrivacyOptions": {
+    "message": "Pilihan Privasi"
+  },
+  "menuRecentSLinks": {
+    "message": "Secure.Links Terbaru"
+  },
+  "menuLanguages": {
+    "message": "Bahasa"
+  },
+  "menuHelp": {
+    "message": "Bantu Saya!"
+  },
+  "menuMyAcc": {
+    "message": "Akun Saya"
+  },
+  "menuUpgrade": {
+    "message": "Tingkatkan"
+  },
+  "menuLogout": {
+    "message": "Keluar"
+  },
+  "recentLinksTitle": {
+    "message": "Link-link terbaru"
+  },
+  "recentLinksCopied": {
+    "message": "Sudah disalin!"
+  },
+  "recentLinksNoTitle": {
+    "message": "Tidak ada judul halaman"
+  },
+  "recentLinksSure": {
+    "message": "Apa Anda yakin?"
+  },
+  "recentLinksCopy": {
+    "message": "Salin"
+  },
+  "recentLinksYes": {
+    "message": "Ya"
+  },
+  "recentLinksNo": {
+    "message": "Tidak"
+  },
+  "remove": {
+    "message": "Hapus"
+  },
+  "recentLinksNoLinks": {
+    "message": "Anda tidak punya link aman"
+  },
+  "recentLinksLearn": {
+    "message": "Pelajari tentang Secure.link"
+  },
+  "recentLinksToday": {
+    "message": "Hari ini"
+  },
+  "recentLinksWeek": {
+    "message": "Minggu Lalu"
+  },
+  "recentLinksMonth": {
+    "message": "Bulan Lalu"
+  },
+  "recentLinksOlder": {
+    "message": "Lebih lama"
+  },
+  "privacyOptionsTitle": {
+    "message": "Pilihan Privasi"
+  },
+  "privacyOptionsAntiSoc": {
+    "message": "Anti-Sosial"
+  },
+  "privacyOptionsAntiSocNote": {
+    "message": "EKSPERIMENTAL:Hapus tombol media sosial"
+  },
+  "privacyOptionsUntrace": {
+    "message": "Tidak terlacak"
+  },
+  "privacyOptionsUntraceNote": {
+    "message": "Blokir pelacak dan beacon yang dikenal"
+  },
+  "privacyOptionsAdBlock": {
+    "message": "Pemblokir Iklan"
+  },
+  "privacyOptionsAdBlockNote": {
+    "message": "Blokir iklan di halaman yang Anda kunjungi"
+  },
+  "privacyOptionsSplit": {
+    "message": "Pisah Kepribadian"
+  },
+  "privacyOptionsSplitNote": {
+    "message": "Putar secara acak agen pengguna Anda"
+  },
+  "privacyOptionsWLTitle": {
+    "message": "Situs dalam daftar putih"
+  },
+  "privacyOptionsWLText": {
+    "message": "Situs dalam daftar putih tidak akan terpengaruh oleh pengaturan di atas"
+  },
+  "privacyOptionsWLBtnText": {
+    "message": "Kelola Daftar Putih"
+  },
+  "privacyOptionsOn": {
+    "message": "nyala"
+  },
+  "privacyOptionsOff": {
+    "message": "mati"
+  },
+  "secLinkTitle": {
+    "message": "Pilihan Link Aman"
+  },
+  "secLinkCopied": {
+    "message": "Link sudah disalin"
+  },
+  "secLinkNotCopied": {
+    "message": "Link tidak tersalin"
+  },
+  "secLinkAddPsw": {
+    "message": "Tambahkan kata sandi untuk mengenkripsi (opsional)"
+  },
+  "secLinkAddMsg": {
+    "message": "Tambah Pesan (opsional)"
+  },
+  "secLinkWarn": {
+    "message": "Kata sandi harus mengandung setidaknya 4 simbol"
+  },
+  "secLinkForceIns": {
+    "message": "Instal Paksa"
+  },
+  "secLinkNote": {
+    "message": "*Akan butuh Windscribe terinstal untuk melanjutkan"
+  },
+  "errOtherExtensionHeader": {
+    "message": "Perlindungan Dinonaktifkan"
+  },
+  "errOtherExtensionText": {
+    "message": "Windscribe tidak bisa bekerja saat Anda menggunakan ekstensi lain yang mengtrol pengaturan proksi Anda"
+  },
+  "errNetworkHeader": {
+    "message": "Ups, seharusnya itu tidak terjadi"
+  },
+  "errNetworkText": {
+    "message": "Tidak bisa mencapai server Windscribe. Antara Anda tidak punya koneksi internet atau ada sesuatu yang salah di sisi kami"
+  },
+  "rateUsHeader": {
+    "message": "Apakah Anda menyukai Windscribe?"
+  },
+  "rateUsHeaderText": {
+    "message": "Kami akan sangat menghargai  jika Anda menilai dan menulis ulasan di Chrome Store"
+  },
+  "rateUsCTA": {
+    "message": "Nilai Kami"
+  },
+  "rateUsNo": {
+    "message": "Tidak Terimakasih"
+  },
+  "notificationOn": {
+    "message": "Anda sekarang terhubung ke Windscribe"
+  },
+  "notificationOff": {
+    "message": "Koneksi ke Windscribe telah dihentikan"
+  },
+  "notificationOnDH1": {
+    "message": "Anda sekarang terhubung ke Windscribe"
+  },
+  "notificationOnDH2": {
+    "message": "Lompatan Ganda diaktifkan. Hal ini mungkin menyebabkan performa menurun"
+  },
+  "notificationOffDH": {
+    "message": "Koneksi lompatan ganda telah dihentikan. Jaringan Anda masih dikontrol oleh aplikasi desktop Windscribe"
+  },
+  "notificationOnEM": {
+    "message": "Pengaturan jaringan Anda sedang dikontrol oleh Aplikasi desktop Windscribe"
+  },
+  "notificationEA": {
+    "message": "Pengaturan jaringan Anda sekarang sedang dikontrol oleh aplikasi desktop Windscribe. Putuskan koneksi di dalam aplikasi untuk mematikan Windscribe"
+  },
+  "topNavDaysLeft": {
+    "message": "Hari Tersisa"
+  },
+  "topNavDayLeft": {
+    "message": "Hari Tersisa"
+  },
+  "topNavUpgrade": {
+    "message": "Tingkatkan"
+  },
+  "topNavBanned": {
+    "message": "Dilarang"
+  },
+  "topNavGBLeft": {
+    "message": "GB Kiri"
+  }
+}

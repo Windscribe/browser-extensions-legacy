@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Συνδεθείτε στο Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Όνομα Χρήστη"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Κωδικός Πρόσβασης"
+	},
+	"loginButtonText": {
+		"message": "Σύνδεση"
+	},
+	"loginForgotPassword": {
+		"message": "Ξεχάσατε τον κωδικό"
+	},
+	"loginSignUp": {
+		"message": "Εγγραφή"
+	},
+	"loginErr": {
+		"message": "Αυτή η σύνδεση φαίνεται να μην είναι έγκυρη, δοκιμάστε ξανά"
+	},
+	"loginEmptyInput": {
+		"message": "Συμπληρώστε το'όνομα χρήστη' και τον 'κωδικό πρόσβασης' για να συνδεθείτε"
+	},
+	"loginWelcomeMsg": {
+		"message": "Εξαιρετικά, σας συνδέουμε"
+	},
+	"statusConnectedDesktop": {
+		"message": "Συνδεδεμένος (Desktop)"
+	},
+	"statusConnected": {
+		"message": "Συνδεδεμένος"
+	},
+	"statusDisconnected": {
+		"message": "Αποσυνεδεμένος"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "Η τοποθεσία θα αλλάξει αυτόματα με την είσοδο σε μια μπλοκαρισμένη πηγή"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "Η εφαρμογή Desktop είναι σε λειτουργία. Αυτή τη στιγμή έχετε διπλό διαμεσολαβητή για την κυκλοφορία σας. Αυτό είναι πιο ασφαλές, αλλά μπορεί να είναι πιο αργό"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Η ρυθμίσεις δικτύου σας ελέγχονται από την εφαρμογή Windscribe Desktop"
+	},
+	"connectionModeTooltipManual": {
+		"message": "Η τοποθεσία επιλέγεται από εσάς"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "Η λειτουργία σας ορίζεται από τις ρυθμίσεις διαμεσολαβητή"
+	},
+	"upgradeTooltipText": {
+		"message": "Ξεπεράσατε το όριο δωρεάν χρήσης για αυτό το μήνα. Παρακαλώ αναβαθμίστε"
+	},
+	"connectionModeText": {
+		"message": "Λειτουργία Σύνδεσης"
+	},
+	"connectionModeNameCR": {
+		"message": "Αυτόματος Πιλότος"
+	},
+	"connectionModeNameML": {
+		"message": "Εγχειρίδιο"
+	},
+	"connectionModeNameEA": {
+		"message": "Εξωτερική εφαρμογή"
+	},
+	"connectionModeNameDH": {
+		"message": "Double Hop"
+	},
+	"secureLinkTitle": {
+		"message": "Γεννήτρια Secure.Link"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Δεν μπορεί να δημιουργηθεί ένα Secure.link από αυτή τη σελίδα"
+	},
+	"secureLinkBtnText": {
+		"message": "Αντιγραφή Secure.Link"
+	},
+	"whiteListIt": {
+		"message": "Προσθήκη σε Whitelist"
+	},
+	"whiteListAdsOnly": {
+		"message": "Μόνο Διαφημίσεις"
+	},
+	"whiteListNoProxy": {
+		"message": "Χωρίς Διαμεσολαβητή"
+	},
+	"whiteListRemove": {
+		"message": "Αφαίρεση από White List"
+	},
+	"whiteListListed": {
+		"message": "Αυτή η ιστοσελίδα είναι σε whitelist"
+	},
+	"whiteListIssues": {
+		"message": "Έχετε Θέματα με αυτή την ιστοσελίδα;"
+	},
+	"whiteListTooltip": {
+		"message": "Δεν μπορείτε να προσθέσετε μια κενή σελίδα στην whitelist"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Αφαίρεση Ιστοσελίδας από Whitelist"
+	},
+	"whiteListAddBtnText": {
+		"message": "Προσθήκη Ιστοσελίδας σε"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Whitelist Διαφημίσεων"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Whitelist Διαμεσολαβητή"
+	},
+	"whiteListReportUrl": {
+		"message": "Αναφορά αυτού του URL ώστε να το διορθώσουμε"
+	},
+	"whiteListReportThanks": {
+		"message": "Ευχαριστούμε. θα το διορθώσουμε σύντομα"
+	},
+	"whiteListQuestion": {
+		"message": "Σταμάτημα Ανιχνευτών Μπλοκαρίσματος σε αυτή την Ιστοσελίδας;"
+	},
+	"whiteListTitle": {
+		"message": "Ρυθμίσεις Whitelist"
+	},
+	"whiteListSitesTitle": {
+		"message": "Ιστοσελίδες σε Whitelist"
+	},
+	"backTitle": {
+		"message": "Επιστροφή"
+	},
+	"menuTitle": {
+		"message": "Μενού"
+	},
+	"menuPrivacyOptions": {
+		"message": "Ρυθμίσεις Απορρήτου"
+	},
+	"menuRecentSLinks": {
+		"message": "Πρόσφατα Secure.Links"
+	},
+	"menuLanguages": {
+		"message": "Γλώσσες"
+	},
+	"menuHelp": {
+		"message": "Βοήθεια!"
+	},
+	"menuMyAcc": {
+		"message": "Ο Λογαριασμός Μου"
+	},
+	"menuUpgrade": {
+		"message": "Αναβάθμιση"
+	},
+	"menuLogout": {
+		"message": "Αποσύνδεση"
+	},
+	"recentLinksTitle": {
+		"message": "Πρόσφατοι Σύνδεσμοι"
+	},
+	"recentLinksCopied": {
+		"message": "Αντιγράφτηκε!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Κανένα όνομα σελίδας"
+	},
+	"recentLinksSure": {
+		"message": "Είστε σίγουρος;"
+	},
+	"recentLinksCopy": {
+		"message": "Αντιγραφή"
+	},
+	"recentLinksYes": {
+		"message": "Ναι"
+	},
+	"recentLinksNo": {
+		"message": "Όχι"
+	},
+	"remove": {
+		"message": "Αφαίρεση"
+	},
+	"recentLinksNoLinks": {
+		"message": "Δεν έχετε κανέναν ασφαλή σύνδεσμο"
+	},
+	"recentLinksLearn": {
+		"message": "Μάθετε σχετικά με Secure.link"
+	},
+	"recentLinksToday": {
+		"message": "Σήμερα"
+	},
+	"recentLinksWeek": {
+		"message": "Τελευταία Εβδομάδα"
+	},
+	"recentLinksMonth": {
+		"message": "Τελευταίος Μήνας"
+	},
+	"recentLinksOlder": {
+		"message": "Παλαιότερο"
+	},
+	"privacyOptionsTitle": {
+		"message": "Ρυθμίσεις Απορρήτου"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Anti-Social"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "ΠΕΙΡΑΜΑΤΙΚΟ: Αφαιρέστε πλήκτρα social media"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Μη Ανιχνεύσιμο"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Σταματήστε γνωστά ad beacons και trackers"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Ad Blocker"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Μπλοκάρει τις διαφημίσεις στις σελίδες που επισκέπτεστε"
+	},
+	"privacyOptionsSplit": {
+		"message": "Split Personality"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Περιστρέφει τυχαία τον παράγοντα χρήστη σας"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Ιστοσελίδες σε Whitelist"
+	},
+	"privacyOptionsWLText": {
+		"message": "Οι ιστοσελίδες στην Whitelist δε θα επηρεαστούν από τις παραπάνω ρυθμίσεις"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Διαχείριση Whitelist"
+	},
+	"privacyOptionsOn": {
+		"message": "ενεργοποιημένο"
+	},
+	"privacyOptionsOff": {
+		"message": "απενεργοποιημένο"
+	},
+	"secLinkTitle": {
+		"message": "Ρυθμίσεις Secure link"
+	},
+	"secLinkCopied": {
+		"message": "Ο σύνδεσμος αντιγράφτηκε"
+	},
+	"secLinkNotCopied": {
+		"message": "Ο σύνδεσμος δεν αντιγράφτηκε"
+	},
+	"secLinkAddPsw": {
+		"message": "Προσθήκη κωδικού για κρυπτογράφηση (προαιρετικό)"
+	},
+	"secLinkAddMsg": {
+		"message": "Προσθήκη Μηνύματος (προαιρετικό)"
+	},
+	"secLinkWarn": {
+		"message": "Ο κωδικός πρόσβασης πρέπει να περιέχει τουλάχιστον 4 σύμβολα"
+	},
+	"secLinkForceIns": {
+		"message": "Δυναμική εγκατάσταση"
+	},
+	"secLinkNote": {
+		"message": "*Απαιτεί το Windscribe να είναι εγκατεστημένο για να συνεχίσετε"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Η Προστασία Καταργήθηκε"
+	},
+	"errOtherExtensionText": {
+		"message": "Το Windscribe δεν μπορεί να λειτουργήσει όταν χρησιμοποιείτε ένα άλλο πρόσθετο που ελέγχει τις ρυθμίσεις του διαμεσολαβητή σας"
+	},
+	"errNetworkHeader": {
+		"message": "Ούπς, αυτό δε θα έπρεπε να συμβεί"
+	},
+	"errNetworkText": {
+		"message": "Δεν έγινε σύνδεση με τους Windscribe servers. Είτε δεν έχετε μια σύνδεση ίντερνετ ή κάτι πάει στραβά από μεριά μας"
+	},
+	"rateUsHeader": {
+		"message": "Σας αρέσει το Windscribe?"
+	},
+	"rateUsHeaderText": {
+		"message": "Θα εκτιμούσαμε μια βαθμολόγηση και ένα σχόλιο στο Chrome Store"
+	},
+	"rateUsCTA": {
+		"message": "Βαθμολογήστε Μας"
+	},
+	"rateUsNo": {
+		"message": "Όχι, Ευχαριστώ"
+	},
+	"notificationOn": {
+		"message": "Έχετε συνδεθεί στο Windscribe"
+	},
+	"notificationOff": {
+		"message": "Η σύνδεση στο Windscribe τερματίστηκε"
+	},
+	"notificationOnDH1": {
+		"message": "Είστε συνδεδεμένος στο Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "Το Double hop είναι ενεργοποιημένο. Αυτό μπορεί να προκαλέσει ποινές στην απόδοση"
+	},
+	"notificationOffDH": {
+		"message": "Η σύνδεση στο Double hop τερματίστηκε. Το δίκτυό σας ελέγχεται ακόμα από την εφαρμογή Windscribe desktop"
+	},
+	"notificationOnEM": {
+		"message": "Οι ρυθμίσεις δικτύου σας ελέγχονται από την εφαρμογή Windscribe Desktop"
+	},
+	"notificationEA": {
+		"message": "Οι ρυθμίσεις δικτύου σας ελέγχονται από την εφαρμογή Windscribe Desktop. Αποσυνδεθείτε μέσα από την εφαρμογή για να σβήσετε το Windscribe"
+	},
+	"topNavDaysLeft": {
+		"message": "Μέρες απομένουν"
+	},
+	"topNavDayLeft": {
+		"message": "Ημέρα Απομένει"
+	},
+	"topNavUpgrade": {
+		"message": "Αναβάθμιση"
+	},
+	"topNavBanned": {
+		"message": "Banned"
+	},
+	"topNavGBLeft": {
+		"message": "GB αριστερά"
+	}
+}

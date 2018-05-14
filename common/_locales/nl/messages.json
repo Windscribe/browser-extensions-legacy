@@ -1,0 +1,332 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Inloggen bij Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Gebruikersnaam"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Wachtwoord"
+	},
+	"loginButtonText": {
+		"message": "Inloggen"
+	},
+	"loginForgotPassword": {
+		"message": "Wachtwoord vergeten"
+	},
+	"loginSignUp": {
+		"message": "Aanmelden"
+	},
+	"loginErr": {
+		"message": "Inloggegevens verkeerd, probeer opnieuw."
+	},
+	"loginEmptyInput": {
+		"message": "Vul zowel gebuikersnaam en wachtwoord in om in te loggen"
+	},
+	"loginWelcomeMsg": {
+		"message": "Geweldig, je wordt ingelogd"
+	},
+	"statusConnectedDesktop": {
+		"message": "Verbonden (Desktop)"
+	},
+	"statusConnected": {
+		"message": "Verbonden"
+	},
+	"statusDisconnected": {
+		"message": "Verbinding verbroken"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "Locatie zal automatisch veranderd worden als je toegang zoekt tot een geblokkeerde bron."
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "Desktop applicatie staat aan. Je verkeer is verdubbeld. Dit is veiliger, maar wel langzamer."
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Je netwerkinstellingen worden beheerd door de Windscribe Desktop App"
+	},
+	"connectionModeTooltipManual": {
+		"message": "Locatie is door jou gekozen"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "Je modus is gekozen aan de hand van je proxy instellingen"
+	},
+	"upgradeTooltipText": {
+		"message": "Je bent over het gratis limiet heen deze maand. Upgrade nu."
+	},
+	"connectionModeText": {
+		"message": "Connectie Modus"
+	},
+	"connectionModeNameCR": {
+		"message": "Cruise Control"
+	},
+	"connectionModeNameML": {
+		"message": "Manueel"
+	},
+	"connectionModeNameEA": {
+		"message": "Externe App"
+	},
+	"connectionModeNameDH": {
+		"message": "Dubbele Hop"
+	},
+	"secureLinkTitle": {
+		"message": "Veilige.Link Generator"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Kan geen veilige link maken van deze pagina"
+	},
+	"secureLinkBtnText": {
+		"message": "Kopieer veilige link"
+	},
+	"whiteListIt": {
+		"message": "Whitelist it"
+	},
+	"whiteListAdsOnly": {
+		"message": "Alleen advertenties"
+	},
+	"whiteListNoProxy": {
+		"message": "Geen Proxy"
+	},
+	"whiteListRemove": {
+		"message": "Verwijder van White List"
+	},
+	"whiteListListed": {
+		"message": "Deze site is whitelisted"
+	},
+	"whiteListIssues": {
+		"message": "Heb je problemen met deze site?"
+	},
+	"whiteListTooltip": {
+		"message": "Kan geen lege pagina aan whitelist toevoegen"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Verwijder site van Whitelist"
+	},
+	"whiteListAddBtnText": {
+		"message": "Voeg site toe aan"
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Advertenties Whitelist"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Proxy Whitelist"
+	},
+	"whiteListReportUrl": {
+		"message": "Rapporteer deze URL, zodat we er iets aan kunnen doen"
+	},
+	"whiteListReportThanks": {
+		"message": "Bedankt. We zullen hier zo snel mogelijk iets aan doen"
+	},
+	"whiteListQuestion": {
+		"message": "Stop met het gebruiken van Blocking Trackers op deze site?"
+	},
+	"whiteListTitle": {
+		"message": "Whitelist Opties"
+	},
+	"whiteListSitesTitle": {
+		"message": "Whitelisted sites"
+	},
+	"backTitle": {
+		"message": "Terug"
+	},
+	"menuTitle": {
+		"message": "Menu"
+	},
+	"menuPrivacyOptions": {
+		"message": "Privacy Opties"
+	},
+	"menuRecentSLinks": {
+		"message": "Recente Veilige Links"
+	},
+	"menuLanguages": {
+		"message": "Talen"
+	},
+	"menuHelp": {
+		"message": "Hulp!"
+	},
+	"menuMyAcc": {
+		"message": "Mijn Account"
+	},
+	"menuUpgrade": {
+		"message": "Upgrade"
+	},
+	"menuLogout": {
+		"message": "Uitloggen"
+	},
+	"recentLinksTitle": {
+		"message": "Recente Links"
+	},
+	"recentLinksCopied": {
+		"message": "Gekopieerd!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Geen pagina titel"
+	},
+	"recentLinksSure": {
+		"message": "Weet je het zeker?"
+	},
+	"recentLinksCopy": {
+		"message": "Kopiëren"
+	},
+	"recentLinksYes": {
+		"message": "Ja"
+	},
+	"recentLinksNo": {
+		"message": "Nee"
+	},
+	"remove": {
+		"message": "Verwijderen"
+	},
+	"recentLinksNoLinks": {
+		"message": "Je hebt geen veilige links"
+	},
+	"recentLinksLearn": {
+		"message": "Leer meer over veilige links"
+	},
+	"recentLinksToday": {
+		"message": "Vandaag"
+	},
+	"recentLinksWeek": {
+		"message": "Vorige Week"
+	},
+	"recentLinksMonth": {
+		"message": "Vorige maand"
+	},
+	"recentLinksOlder": {
+		"message": "Ouder"
+	},
+	"privacyOptionsTitle": {
+		"message": "Privacy Opties"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Anti-Sociaal"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "EXPERIMENTEEL: Verwijder social media knoppen"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Onvindbaar"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Blokkeer bekende advertenties en trackers"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Advertentie Blocker"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Blokkeer advertenties op pagina's die je bezoekt"
+	},
+	"privacyOptionsSplit": {
+		"message": "Splits Persoonlijkheid"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Draai je gebruiker willekeurig"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Whitelisted Sites"
+	},
+	"privacyOptionsWLText": {
+		"message": "Sites op de Whitelist zullen niet beïnvloed worden door deze instellingen"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Beheer Whitelist"
+	},
+	"privacyOptionsOn": {
+		"message": "aan"
+	},
+	"privacyOptionsOff": {
+		"message": "uit"
+	},
+	"secLinkTitle": {
+		"message": "Veilige link Opties"
+	},
+	"secLinkCopied": {
+		"message": "Link gekopieerd"
+	},
+	"secLinkNotCopied": {
+		"message": "Link niet gekopieerd"
+	},
+	"secLinkAddPsw": {
+		"message": "Voeg wachtwoord toe om te vergrendelen (optioneel)"
+	},
+	"secLinkAddMsg": {
+		"message": "Voeg bericht toe (optioneel)"
+	},
+	"secLinkWarn": {
+		"message": "Wachtwoord moet ten minste vier symbolen bevatten"
+	},
+	"secLinkForceIns": {
+		"message": "Forceer installatie"
+	},
+	"secLinkNote": {
+		"message": "*Windscribe moet geinstalleerd zijn om door te gaan"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Bescherming Uitgeschakeld"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe werkt niet als je een andere extensie gebruikt die je proxy instellingen beheert."
+	},
+	"errNetworkHeader": {
+		"message": "Oops, dat zou niet moeten gebeuren."
+	},
+	"errNetworkText": {
+		"message": "Kon de Windscribe servers niet bereiken. Je hebt geen internet verbinding of er is bij ons iets mis."
+	},
+	"rateUsHeader": {
+		"message": "Hoe bevalt Windscribe?"
+	},
+	"rateUsHeaderText": {
+		"message": "We waarderen het als je ons beoordeelt en een recensie schrijft in de Chrome Store."
+	},
+	"rateUsCTA": {
+		"message": "Beoordeel ons"
+	},
+	"rateUsNo": {
+		"message": "Nee bedankt"
+	},
+	"notificationOn": {
+		"message": "Je bent nu verbonden met Windscribe"
+	},
+	"notificationOff": {
+		"message": "De verbinding met Windscribe is verbroken"
+	},
+	"notificationOnDH1": {
+		"message": "Je bent verbonden met Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "Dubbele hop staat aan. Dit kan de prestaties beïnvloeden."
+	},
+	"notificationOffDH": {
+		"message": "Dubbele hop connectie is verbroken. Je netwerk wordt nog steeds beheerd door de Windscribe desktop app"
+	},
+	"notificationOnEM": {
+		"message": "Je netwerk instellingen worden beheerd door de Windscribe Desktop App"
+	},
+	"notificationEA": {
+		"message": "Je netwerk instellingen worden beheerd door de Windscribe Desktop App. Verbreek de verbinding in de app om Windscribe uit te zetten."
+	},
+	"topNavDaysLeft": {
+		"message": "Dagen over"
+	},
+	"topNavDayLeft": {
+		"message": "Dag over"
+	},
+	"topNavUpgrade": {
+		"message": "Upgrade"
+	},
+	"topNavBanned": {
+		"message": "Verbannen"
+	},
+	"topNavGBLeft": {
+		"message": "GB Over"
+	}
+}

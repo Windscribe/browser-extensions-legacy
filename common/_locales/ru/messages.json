@@ -1,0 +1,338 @@
+{
+	"extName": {
+		"message": "Windscribe - Free VPN and Ad Blocker"
+	},
+	"extShortName": {
+		"message": "Windscribe"
+	},
+	"extDescription": {
+		"message": "Windscribe helps you mask your physical location, circumvent censorship, block ads and trackers on websites you use every day"
+	},
+	"loginTitle": {
+		"message": "Войти в Windscribe"
+	},
+	"loginUsernamePlaceholder": {
+		"message": "Имя пользователя"
+	},
+	"loginPasswordPlaceholder": {
+		"message": "Пароль"
+	},
+	"loginButtonText": {
+		"message": "Войти"
+	},
+	"loginForgotPassword": {
+		"message": "Забыли парль"
+	},
+	"loginSignUp": {
+		"message": "Подписаться"
+	},
+	"loginErr": {
+		"message": "Неверный логин или пароль, попробуйте ещё раз"
+	},
+	"loginEmptyInput": {
+		"message": "Заполните 'Имя пользователя' и 'Пароль' чтобы войти"
+	},
+	"loginWelcomeMsg": {
+		"message": "Прекрасно, мы настраиваем приложение для Вас"
+	},
+	"statusConnectedDesktop": {
+		"message": "Соединены (ПК)"
+	},
+	"statusConnected": {
+		"message": "Соединены"
+	},
+	"statusDisconnected": {
+		"message": "Разъединены"
+	},
+	"connectionModeTooltipCruiseControl": {
+		"message": "Местоположение поменяется автоматически при соединении с заблокированным ресурсом"
+	},
+	"connectionModeTooltipDoubleHop": {
+		"message": "Работает приложение с ПК. Вы пользуетесь двойным прокси. Это безопаснее, но медленнее"
+	},
+	"connectionModeTooltipExternalApp": {
+		"message": "Настройки Вашего соединения контроллируются Windscribe с настольного ПК"
+	},
+	"connectionModeTooltipManual": {
+		"message": "Вы выбираете свое местоположение"
+	},
+	"connectionModeTooltipDefault": {
+		"message": "Тип подключения определяется настройками прокси"
+	},
+	"upgradeTooltipText": {
+		"message": "Вы превысили количество бесплатного трафика в этом месяце, пожайлуйста переключитесь на другую подписку"
+	},
+	"connectionModeText": {
+		"message": "Тип соединения"
+	},
+	"connectionModeNameCR": {
+		"message": "Круиз Контроль"
+	},
+	"connectionModeNameML": {
+		"message": "Ручной"
+	},
+	"connectionModeNameEA": {
+		"message": "Внешнее приложений"
+	},
+	"connectionModeNameDH": {
+		"message": "Двойное прокси"
+	},
+	"secureLinkTitle": {
+		"message": "Генератор Secure.Link"
+	},
+	"secureLinkErrTooltip": {
+		"message": "Не могу сделать Secure.Link с этой страницы"
+	},
+	"secureLinkBtnText": {
+		"message": "Скопировать Secure.Link"
+	},
+	"whiteListIt": {
+		"message": "Добавить в Whitelist"
+	},
+	"whiteListAdsOnly": {
+		"message": "Без рекламы"
+	},
+	"whiteListNoProxy": {
+		"message": "Без прокси"
+	},
+	"whiteListRemove": {
+		"message": "Убрать с Whitelist"
+	},
+	"whiteListListed": {
+		"message": "Этот вебсайт - в Whitelist"
+	},
+	"whiteListIssues": {
+		"message": "Проблемы с этим сайтом?"
+	},
+	"whiteListTooltip": {
+		"message": "Не могу добавить пустую страницу в Whitelist"
+	},
+	"whiteListRemoveBtnText": {
+		"message": "Убрать вебсайт с Whitelist"
+	},
+	"whiteListAddBtnText": {
+		"message": "Добавить вебсайт к "
+	},
+	"whiteListAddAdsBtnText": {
+		"message": "Рекламному Whitelist"
+	},
+	"whiteListAddProxyBtnText": {
+		"message": "Прокси Whitelist"
+	},
+	"whiteListReportUrl": {
+		"message": "Раскажите нам про этот URL, чтобы мы его исправили"
+	},
+	"whiteListReportThanks": {
+		"message": "Спасибо. Ми разберемся с этим ближайшим временем"
+	},
+	"whiteListQuestion": {
+		"message": "Остановить блокировку трекеров на этом вебсайте?"
+	},
+	"whiteListTitle": {
+		"message": "Параметры Whitelist"
+	},
+	"whiteListSitesTitle": {
+		"message": "Вебсайты в Whitelist"
+	},
+	"backTitle": {
+		"message": "Назад"
+	},
+	"menuTitle": {
+		"message": "Меню"
+	},
+	"menuPrivacyOptions": {
+		"message": "Настройки приватности"
+	},
+	"menuRecentSLinks": {
+		"message": "Последние Secure.Links"
+	},
+	"menuLanguages": {
+		"message": "Языки"
+	},
+	"menuHelp": {
+		"message": "Помощь!"
+	},
+	"menuMyAcc": {
+		"message": "Мой акаунт"
+	},
+	"menuUpgrade": {
+		"message": "Изменить подписку"
+	},
+	"menuLogout": {
+		"message": "Выйти"
+	},
+	"recentLinksTitle": {
+		"message": " ссылки"
+	},
+	"recentLinksCopied": {
+		"message": "Скопировано!"
+	},
+	"recentLinksNoTitle": {
+		"message": "Нет заголовка страницы"
+	},
+	"recentLinksSure": {
+		"message": "Вы уверены?"
+	},
+	"recentLinksCopy": {
+		"message": "Скопировать"
+	},
+	"recentLinksYes": {
+		"message": "Да"
+	},
+	"recentLinksNo": {
+		"message": "Нет"
+	},
+	"remove": {
+		"message": "Удалить"
+	},
+	"recentLinksNoLinks": {
+		"message": "У Вас нет Secure.Links"
+	},
+	"recentLinksLearn": {
+		"message": "Больше про Secure.Links"
+	},
+	"recentLinksToday": {
+		"message": "Сегодня"
+	},
+	"recentLinksWeek": {
+		"message": "На прошлой неделе"
+	},
+	"recentLinksMonth": {
+		"message": "В последнем месяце"
+	},
+	"recentLinksOlder": {
+		"message": "Старше"
+	},
+	"privacyOptionsTitle": {
+		"message": "Настройки приватности"
+	},
+	"privacyOptionsAntiSoc": {
+		"message": "Анти-соцссылки"
+	},
+	"privacyOptionsAntiSocNote": {
+		"message": "ЭКСПЕРЕМЕНТАЛЬНО: удаляет кнопки соц. сетей"
+	},
+	"privacyOptionsUntrace": {
+		"message": "Без слежки"
+	},
+	"privacyOptionsUntraceNote": {
+		"message": "Блокировать известные трекеры и рекламые маяки"
+	},
+	"privacyOptionsAdBlock": {
+		"message": "Блокировщик рекламы"
+	},
+	"privacyOptionsAdBlockNote": {
+		"message": "Блокировать рекламу на посещаемых вебсайтах"
+	},
+	"privacyOptionsSplit": {
+		"message": "Раздвоение личности"
+	},
+	"privacyOptionsSplitNote": {
+		"message": "Случайным образом меняет Ваш юзер агент"
+	},
+	"privacyOptionsWLTitle": {
+		"message": "Вебсайти в Whitelist"
+	},
+	"privacyOptionsWLText": {
+		"message": "Вебсайты в Whitelist не будут затронуты указанными параметрами"
+	},
+	"privacyOptionsWLBtnText": {
+		"message": "Управление Whitelist"
+	},
+	"privacyOptionsOn": {
+		"message": "Вкл"
+	},
+	"privacyOptionsOff": {
+		"message": "Выкл"
+	},
+	"privacyOptionsTime": {
+		"message": "Время прокси"
+	},
+	"privacyOptionsTimeNote": {
+		"message": "Установить соответствие времени браузера времени прокси серверу"
+	},
+	"secLinkTitle": {
+		"message": "Настройки Secure.Links"
+	},
+	"secLinkCopied": {
+		"message": "Ссылка скопирована"
+	},
+	"secLinkNotCopied": {
+		"message": "Ссылка не скопирована"
+	},
+	"secLinkAddPsw": {
+		"message": "Добавить пароль для защиты (не обязательно)"
+	},
+	"secLinkAddMsg": {
+		"message": "Добавить сообщение (не обязательно)"
+	},
+	"secLinkWarn": {
+		"message": "Пароль должен быть минимум 4 символа"
+	},
+	"secLinkForceIns": {
+		"message": "Обязательная установка"
+	},
+	"secLinkNote": {
+		"message": "*будет требовать установленный Windscribe чтобы продолжить"
+	},
+	"errOtherExtensionHeader": {
+		"message": "Защита приостановлена"
+	},
+	"errOtherExtensionText": {
+		"message": "Windscribe не может работать, когда Вы используете другие приложения для контроля настроек прокси"
+	},
+	"errNetworkHeader": {
+		"message": "Омг, этого не должно было случиться"
+	},
+	"errNetworkText": {
+		"message": "Не могу соединится с серверами Windscribe. Либо у Вас нет связи с Интернетом, либо что-то не так с нашей стороны"
+	},
+	"rateUsHeader": {
+		"message": "Нравиться ли Вам Windscribe?"
+	},
+	"rateUsHeaderText": {
+		"message": "Мы будем очень признательны за оценку и отзыв в Магазине Гугл Хрома"
+	},
+	"rateUsCTA": {
+		"message": "Оценить"
+	},
+	"rateUsNo": {
+		"message": "Спасибо, нет"
+	},
+	"notificationOn": {
+		"message": "Сейчас Вы подключены к Windscribe"
+	},
+	"notificationOff": {
+		"message": "Соединение с Windscribe остановлено"
+	},
+	"notificationOnDH1": {
+		"message": "Сейчас Вы подключены к Windscribe"
+	},
+	"notificationOnDH2": {
+		"message": "Двойно Прокси включено. Это может влиять на скорость работы"
+	},
+	"notificationOffDH": {
+		"message": "Двойное Прокси отключено. Соединение все еще контролируется Виндскрайбом с настольного ПК"
+	},
+	"notificationOnEM": {
+		"message": "Настройки Вашего соединения контроллируются приложением Windscribe с настольного ПК"
+	},
+	"notificationEA": {
+		"message": "Настройки Вашего соединения контроллируются приложением Windscribe с настольного ПК. Что бы выключить Windscribe, остановите соединение там"
+	},
+	"topNavDaysLeft": {
+		"message": "Дней Осталось"
+	},
+	"topNavDayLeft": {
+		"message": "День Остался"
+	},
+	"topNavUpgrade": {
+		"message": "Подписка"
+	},
+	"topNavBanned": {
+		"message": "Запрещено"
+	},
+	"topNavGBLeft": {
+		"message": "ГБ Осталось"
+	}
+}

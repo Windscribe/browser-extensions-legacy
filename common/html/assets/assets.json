@@ -1,0 +1,53 @@
+{
+	"assets.json": {
+		"content": "internal",
+		"updateAfter": 13,
+		"contentURL": [
+			"assets/assets.json"
+		]
+	},
+	"public_suffix_list.dat": {
+		"content": "internal",
+		"updateAfter": 19,
+		"contentURL": [
+			"assets/thirdparties/publicsuffix.org/list/effective_tld_names.dat"
+		]
+	},
+	"ublock-resources": {
+		"content": "internal",
+		"updateAfter": 7,
+		"contentURL": [
+			"assets/ublock/resources.txt"
+		]
+	},
+	"easylist": {
+		"content": "filters",
+		"group": "ads",
+		"title": "EasyList",
+		"contentURL": [
+			"https://assets.windscribe.com/extension/easylist.txt",
+			"https://assets.staticnetcontent.com/extension/easylist.txt"
+		],
+		"supportURL": "https://forums.lanik.us/"
+	},
+	"easyprivacy": {
+		"content": "filters",
+		"group": "privacy",
+		"title": "EasyPrivacy",
+		"contentURL": [
+			"https://assets.windscribe.com/extension/easyprivacy.txt",
+			"https://assets.staticnetcontent.com/extension/easyprivacy.txt"
+		],
+		"supportURL": "https://forums.lanik.us/"
+	},
+	"fanboy-social": {
+		"content": "filters",
+		"group": "social",
+		"title": "Fanboy’s Social Blocking List",
+		"contentURL": [
+			"https://assets.windscribe.com/extension/fanboy-social.txt",
+			"https://assets.staticnetcontent.com/extension/fanboy-social.txt"
+		],
+		"supportURL": "https://forums.lanik.us/"
+	}
+}
