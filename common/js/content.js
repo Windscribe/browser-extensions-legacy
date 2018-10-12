@@ -62,7 +62,7 @@ function setDate(element) {
                 MyDate.prototype.toUTCStringOriginal = Date.prototype.toUTCString;
                 MyDate.prototype.toISOStringOriginal = Date.prototype.toISOString;
                 
-				function toStringConstructor(that, method) {
+		function toStringConstructor(that, method) {
                     var date = new MyDate(that);
                     date.setUTCHours(date.getHours() - ${utcShift});
 
