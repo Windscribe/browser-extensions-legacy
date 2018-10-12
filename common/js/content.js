@@ -62,23 +62,23 @@ function setDate(element) {
                 MyDate.prototype.toUTCStringOriginal = Date.prototype.toUTCString;
                 MyDate.prototype.toISOStringOriginal = Date.prototype.toISOString;
                 
-                function toStringConstructor(method) {
-                    var date = new MyDate();
+				function toStringConstructor(that, method) {
+                    var date = new MyDate(that);
                     date.setUTCHours(date.getHours() - ${utcShift});
 
                     return date[method]();
                 }
                 
                 MyDate.prototype.toGMTString = function() {
-                    return toStringConstructor('toGMTStringOriginal');
+                    return toStringConstructor(this, 'toGMTStringOriginal');
                 };
                 
                 MyDate.prototype.toUTCString = function() {
-                    return toStringConstructor('toUTCStringOriginal');
+                    return toStringConstructor(this, 'toUTCStringOriginal');
                 };
                 
                 MyDate.prototype.toISOString = function() {
-                    return toStringConstructor('toISOStringOriginal');
+                    return toStringConstructor(this, 'toISOStringOriginal');
                 };
             
                 var names = Object.getOwnPropertyNames(Date);
